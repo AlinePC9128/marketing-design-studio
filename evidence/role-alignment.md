@@ -1,26 +1,28 @@
-# Relación con la vacante y mi experiencia
+# Role alignment and professional evidence
 
-Este caso está diseñado para demostrar capacidades de diseño gráfico y marketing sin exagerar experiencia específica con Coast Oil Dynamic.
+## Roles supported by this portfolio
 
-## Lo que demuestra
+Graphic Designer, Visual Designer, Digital Designer, Brand Designer, Marketing Designer, UX/UI Designer, Web Designer and WordPress Designer.
 
-- **Diseño gráfico:** dirección visual, composición, jerarquía, color, tipografía y adaptación multiformato.
-- **Branding:** construcción de concepto, logotipo conceptual, paleta, reglas y consistencia.
-- **Marketing:** awareness, consideration, conversion, email, CTA, funnel y campañas.
-- **Analítica:** hipótesis, eventos, KPI, UTMs y pruebas A/B.
-- **UX/UI:** lectura rápida, contraste, arquitectura de información y experiencia responsive.
-- **Producción web:** HTML, CSS, JavaScript y SVG editables para convertir el sistema en una experiencia navegable.
+## What the portfolio proves
 
-## Experiencia que sí puedo conectar
+- Graphic design: composition, hierarchy, typography, color, layout and multi-format adaptation.
+- Branding: identity concepts, visual systems, logo direction and brand consistency.
+- Marketing: campaigns, content systems, email, social media, landing pages, CTAs and funnel thinking.
+- UX/UI: information architecture, user flows, wireframes, Figma prototypes, responsive UI and basic accessibility.
+- Web production: WordPress, Elementor Pro, HTML5, CSS3, JavaScript, PHP, jQuery and WooCommerce.
+- Analytics: GA4, Google Tag Manager, Search Console, Mailchimp, CRM, Power BI, KPIs and testing hypotheses.
 
-Mi experiencia comprobada incluye marketing digital, community management, campañas, email marketing, SEO, GA4, Tag Manager, Search Console, landing pages, WordPress, HTML, CSS, JavaScript, Figma, edición de video, reportes y responsabilidad de calidad ISO 9001.
+## Proven experience to discuss
 
-También puedo hablar de resultados reales: hasta 5 campañas simultáneas, aproximadamente 200 leads mensuales, una base de email cercana a 15,000 contactos, campañas de Mailchimp, más de 10 landing pages SEO y proyectos web responsive.
+Aline’s documented experience includes marketing, community management, campaigns, email marketing, SEO, GA4, Tag Manager, Search Console, landing pages, WordPress, HTML, CSS, JavaScript, Figma, video editing, reporting and ISO 9001 quality responsibility.
 
-## Cómo presentaría lo que todavía estoy fortaleciendo
+Professional scope includes up to five simultaneous campaigns, approximately 200 leads per month, an email database close to 15,000 contacts, three websites, four landing pages, a WooCommerce catalog with more than 200 products and 31 connected forms or lead channels.
 
-React, Angular, TypeScript, Gutenberg/FSE, Node.js, WP-CLI y CI/CD se muestran como actualización y proyectos de aprendizaje. No los presentaría como años de experiencia comercial avanzada.
+## Skills presented as developing
 
-## Respuesta breve para entrevista
+Adobe Illustrator, Adobe InDesign, After Effects, Gutenberg/block development, Jira, Confluence, Miro, Draw.io and Scrum/Kanban are intentionally labeled as professional-development areas. They should not be described as advanced commercial experience.
 
-> “Mi fortaleza está en conectar diseño, contenido, web y medición. Para este caso no me limité a decorar una marca: investigué el contexto público, construí un sistema visual, adapté piezas a varios canales y dejé un plan para aprender qué comunicación ayuda a generar conversaciones de negocio.”
+## Interview answer
+
+> “My strength is connecting design, content, web and measurement. I can take a brief, structure the information, create the visual system, adapt it to real channels and review the signals that show whether the work is helping people take the next step.”
