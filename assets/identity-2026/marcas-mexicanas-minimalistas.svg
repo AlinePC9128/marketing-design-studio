@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Exploración de logos minimalistas para marcas mexicanas</title>
+  <desc id="desc">Seis conceptos de identidad visual para marcas mexicanas ficticias: Café Sierra Azul, Miel de Xico, Casa Nopal, Luna de Oaxaca, Cacao del Sur y Taller Amapola.</desc>
+  <rect width="1500" height="1000" fill="#f7f3ed"/>
+  <g fill="none" stroke="#2b2530" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 500h1500M500 0v1000M1000 0v1000" opacity=".08"/>
+    <!-- Café Sierra Azul -->
+    <path d="M130 210c43-48 75-42 121-87 39 38 58 50 116 87-72-10-150-9-237 0Z"/>
+    <path d="M153 210c34-28 63-29 96-63 30 29 52 37 89 63M205 210v28M291 210v28"/>
+    <path d="M191 246c45 5 81 5 119 0"/>
+    <!-- Miel de Xico -->
+    <path d="M750 106c-26 0-48 18-58 42-8-14-21-23-36-23-25 0-45 21-45 48 0 5 1 11 3 16-2 8-3 15-3 24 0 54 38 91 139 91s139-37 139-91c0-9-1-16-3-24 2-5 3-11 3-16 0-27-20-48-45-48-15 0-28 9-36 23-10-24-32-42-58-42Z"/>
+    <path d="M750 112v192M714 133l-26-24M786 133l26-24M688 178l-34-9M812 178l34-9M689 224l-34 9M811 224l34 9"/>
+    <path d="M737 168c8-8 18-8 26 0M763 168c8-8 18-8 26 0M732 224h36M750 246v20"/>
+    <!-- Casa Nopal -->
+    <path d="M1250 104c-31 42-40 74-40 116v59M1250 137c-18-21-43-28-62-15-18 13-16 39 0 50 17 12 39 11 62-1M1250 184c18-21 43-28 62-15 18 13 16 39 0 50-17 12-39 11-62-1M1210 279h80M1223 279v30M1277 279v30"/>
+    <path d="M1250 104c-9 10-14 19-18 31M1250 104c9 10 14 19 18 31"/>
+    <!-- Luna de Oaxaca -->
+    <path d="M744 615c-46-47-53-112-17-159 12 54 47 89 96 98-17 31-43 51-79 61Z"/>
+    <path d="M690 782c22-64 49-101 82-113M772 782c-17-55-16-99 0-132M731 713c-19-20-39-28-61-24M753 678c22-19 45-25 68-17"/>
+    <path d="M691 782h90M709 758h55"/>
+    <path d="M836 602l3 10 10 3-10 3-3 10-3-10-10-3 10-3 3-10ZM784 557l2 7 7 2-7 2-2 7-2-7-7-2 7-2 2-7Z"/>
+    <!-- Cacao del Sur -->
+    <path d="M1207 776c-17-66 9-131 65-160 21 69-3 129-65 160Z"/>
+    <path d="M1211 768c31-44 49-85 60-143M1215 725l-31-15M1230 688l34-20M1219 745l33 19"/>
+    <path d="M1160 794c57-6 112-5 175 0M1173 815c48 4 95 4 149 0"/>
+    <!-- Taller Amapola -->
+    <path d="M250 625c-13-42 4-76 38-91 12 31 4 62-20 84M250 625c-21-38-54-48-82-32 8 33 36 51 70 45M250 625c26-32 59-35 84-13-16 30-46 38-77 22M250 625c-2 39-22 61-53 67 0-32 19-56 53-67M250 625c15 37 41 52 72 44-5-31-30-51-72-44Z"/>
+    <path d="M250 625v87M230 720h40"/>
+    <circle cx="250" cy="625" r="9"/>
+  </g>
+  <g fill="#2b2530" text-anchor="middle">
+    <text x="250" y="330" font-family="Georgia,serif" font-size="34" letter-spacing="1">Café Sierra Azul</text>
+    <text x="250" y="362" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">CAFÉ DE ALTURA · VERACRUZ</text>
+    <text x="750" y="330" font-family="Georgia,serif" font-size="36" font-style="italic">Miel de Xico</text>
+    <text x="750" y="362" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">PRODUCTOS DE ABEJA</text>
+    <text x="1250" y="330" font-family="Georgia,serif" font-size="38">Casa Nopal</text>
+    <text x="1250" y="362" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">OBJETOS · TEXTILES · MÉXICO</text>
+    <text x="750" y="830" font-family="Georgia,serif" font-size="38" font-style="italic">Luna de Oaxaca</text>
+    <text x="750" y="862" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">RITUALES BOTÁNICOS</text>
+    <text x="1250" y="830" font-family="Georgia,serif" font-size="38">Cacao del Sur</text>
+    <text x="1250" y="862" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">CHOCOLATE ARTESANAL</text>
+    <text x="250" y="830" font-family="Georgia,serif" font-size="38" font-style="italic">Taller Amapola</text>
+    <text x="250" y="862" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">ARTESANÍA CONTEMPORÁNEA</text>
+  </g>
+  <g fill="#ff5c34">
+    <circle cx="250" cy="391" r="4"/><circle cx="750" cy="391" r="4"/><circle cx="1250" cy="391" r="4"/>
+    <circle cx="250" cy="891" r="4"/><circle cx="750" cy="891" r="4"/><circle cx="1250" cy="891" r="4"/>
+  </g>
+</svg>

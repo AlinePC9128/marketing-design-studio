@@ -14,6 +14,11 @@
 | Editorial e infografía | `assets/editorial-infographic-generated.webp` | reportes, datos y diagramas | Ejemplo conceptual de diseño editorial |
 | Campaña para redes | `assets/social-campaign-generated.webp` | publicaciones, historias y carruseles | Ejemplo conceptual de contenido multiformato |
 | Guion gráfico de video | `assets/motion-storyboard-generated.webp` | reels, secuencias y animación | Ejemplo conceptual para edición y video |
+| Logo minimalista 2026 | `assets/identity-2026/logo-minimalist-2026.webp` | símbolo, retícula y versiones | Exploración conceptual; prioriza legibilidad y reproducción |
+| Logo variable 2026 | `assets/identity-2026/logo-variable-2026.webp` | sistema flexible y aplicaciones | Exploración conceptual; variantes para identidad viva |
+| Marca aplicada 2026 | `assets/identity-2026/brand-packaging-2026.webp` | empaque, etiquetas y papelería | Exploración conceptual de identidad aplicada |
+| Identidad dinámica 2026 | `assets/identity-2026/brand-motion-2026.webp` | poster, digital y movimiento | Exploración conceptual de sistema visual adaptable |
+| Marcas mexicanas minimalistas | `assets/identity-2026/marcas-mexicanas-minimalistas.svg` | seis logos conceptuales con ilustración lineal, serif y descriptor | Exploración ficticia; no representa clientes reales |
 | Intersyst — control de acceso | `assets/professional/intersyst-access-control.webp` | campaña de seguridad y protección | Referencia profesional proporcionada por Aline |
 | Intersyst — cerco eléctrico | `assets/professional/intersyst-electric-fence.webp` | infografía de beneficios | Referencia profesional; validar datos antes de republicar |
 | Intersyst — acceso y videovigilancia | `assets/professional/intersyst-access-control-green.webp` | comunicación de producto | Referencia profesional proporcionada por Aline |

@@ -11,6 +11,7 @@ Esta carpeta convierte el portafolio en una evidencia defendible durante una ent
 5. [Relación con vacantes](role-alignment.md) — conexión con la experiencia comprobada.
 6. [Contenido y copy](content-copy.md) — mensajes y llamados a la acción.
 7. [Perfil ATS](ats-profile.md) — perfil de reclutamiento y palabras clave.
+8. [Dirección visual 2026](trends-2026.md) — tendencias consultadas y decisiones aplicadas.
 
 ## Referencias profesionales
 
@@ -25,3 +26,5 @@ Explicar el trabajo en este orden: contexto → decisión visual → entregables
 La idea central es: “No hice una pieza aislada; construí un sistema visual que puede vivir en logotipo, contenido, email, web y campañas”.
 
 La galería de disciplinas contiene ejemplos conceptuales creados para demostrar alcance visual. No se presentan como trabajos oficiales de clientes ni sustituyen la evidencia profesional de Intersyst y AUTOSISE.
+
+Las exploraciones de `assets/identity-2026/` son conceptos de marca minimalistas para mostrar cómo trabajo un logo: símbolo, retícula, versiones monocromáticas, escalabilidad y aplicaciones. La lámina `marcas-mexicanas-minimalistas.svg` reúne seis negocios ficticios —café, miel, cacao, objetos, rituales y artesanía— con ilustración lineal y composición editorial inspirada en la referencia compartida. Se separan de la evidencia profesional y no se presentan como marcas existentes.
