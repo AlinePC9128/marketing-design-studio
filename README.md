@@ -1,63 +1,63 @@
-# Aline Peña Colunga — Graphic Design Portfolio
+# Aline Peña Colunga — Portafolio de Diseño Gráfico
 
-An English-first portfolio for Aline Peña Colunga, a Graphic Designer, Digital Designer and UX/UI Designer with a Systems Engineering background.
+Portafolio en español de Aline Peña Colunga, Diseñadora Gráfica, Diseñadora Digital y Diseñadora UX/UI con formación en Ingeniería en Sistemas.
 
-The portfolio demonstrates brand identity, visual systems, campaign design, social media production, email design, presentation design, UX/UI, responsive web, WordPress, marketing operations and creative analytics.
+El proyecto demuestra identidad visual, sistemas de marca, campañas, contenido para redes, email, presentaciones, UX/UI, diseño web responsive, WordPress, marketing y analítica creativa.
 
-## Professional positioning
+## Perfil profesional
 
-- Graphic Designer
-- Visual Designer
-- Digital Designer
-- Brand Designer
-- UX/UI Designer
-- Marketing Designer
-- WordPress Web Designer
+- Diseñadora gráfica
+- Diseñadora visual
+- Diseñadora digital
+- Diseñadora de branding
+- Diseñadora UX/UI
+- Diseñadora de marketing
+- Diseñadora web WordPress
 
-## What the portfolio demonstrates
+## Qué demuestra
 
-- Brand identity, logo concepts, color systems, typography and visual guidelines.
-- Multi-format production for social media, email, digital ads, presentations and internal communications.
-- Figma wireframes, user flows, responsive UI and conversion-focused landing pages.
-- WordPress, Elementor Pro, WooCommerce, HTML5, CSS3, JavaScript, PHP and jQuery.
-- Marketing design connected to SEO, GA4, Google Tag Manager, Search Console, Mailchimp, CRM and campaign reporting.
-- Creative QA, accessibility basics, file organization, documentation and handoff.
-- Honest separation between hands-on tools and professional-development tools.
+- Identidad visual, conceptos de logotipo, paleta, tipografía y lineamientos.
+- Producción multiformato para redes, email, anuncios, presentaciones y comunicación interna.
+- Arquitectura de información, user flows, wireframes, prototipos en Figma y landing pages.
+- WordPress, Elementor Pro, WooCommerce, HTML5, CSS3, JavaScript, PHP y jQuery.
+- Diseño conectado con SEO, GA4, Google Tag Manager, Search Console, Mailchimp, CRM y reportes.
+- Control de calidad, accesibilidad básica, documentación y entrega.
+- Separación honesta entre experiencia práctica y herramientas en desarrollo.
 
-## Run locally
+## Ejecutar localmente
 
-No dependencies are required:
+No requiere dependencias:
 
 ```bash
 python3 -m http.server 4173
 ```
 
-Open `http://localhost:4173/projects/marketing-design-studio/`.
+Abre `http://localhost:4173/projects/marketing-design-studio/`.
 
-## Portfolio walkthrough
+## Recorrido del portafolio
 
-1. Use the work filters to explore branding, digital, UX/web and marketing cases.
-2. Click a project or evidence card to open a larger visual preview.
-3. Review the process section to understand how a brief becomes a production-ready system.
-4. Review the tools matrix to see the difference between core experience and professional development.
-5. Open `evidence/ats-profile.md` for a recruiter-friendly plain-text profile.
+1. Filtra los proyectos por branding, digital, UX/Web o marketing.
+2. Haz clic en una pieza para abrir la vista ampliada.
+3. Revisa el proceso para entender cómo convierto un brief en un sistema listo para producción.
+4. Revisa la matriz de herramientas y sus niveles de experiencia.
+5. Abre `evidence/ats-profile.md` para ver el perfil de palabras clave.
 
-## Evidence folder
+## Carpeta de evidencia
 
-The `evidence/` folder contains the creative brief, brand rationale, production specifications, analytics plan, role alignment, content system and ATS profile. The Coast Oil Dynamic work is explicitly presented as a conceptual application, not as official client work.
+La carpeta `evidence/` contiene el brief creativo, razonamiento de marca, entregables, plan de analítica, relación con vacantes, sistema de copy y perfil ATS. El caso de Coast Oil Dynamic está marcado como conceptual y no como trabajo oficial.
 
-## Structure
+## Estructura
 
 ```text
 marketing-design-studio/
 ├── index.html
 ├── styles.css
 ├── app.js
-├── assets/                 # editable SVG visual demonstrations
-├── evidence/               # interview and ATS evidence
-└── .github/workflows/      # GitHub Pages deployment
+├── assets/                 # demostraciones visuales SVG editables
+├── evidence/               # evidencia para entrevista y ATS
+└── .github/workflows/      # despliegue en GitHub Pages
 ```
 
-## Public reference
+## Referencia pública
 
-The Coast Oil Dynamic concept uses publicly available company context as a design exercise. Company facts, project figures and claims must be verified before any real-world publication.
+El caso Coast Oil Dynamic utiliza información pública como ejercicio de diseño. Las cifras, nombres y afirmaciones deben verificarse antes de cualquier publicación real.
