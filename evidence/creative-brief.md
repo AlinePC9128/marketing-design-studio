@@ -1,42 +1,42 @@
-# Creative brief — Coast Oil Dynamic conceptual case
+# Brief creativo — caso conceptual Coast Oil Dynamic
 
-## Project type
+## Tipo de proyecto
 
-Conceptual branding, graphic design and B2B marketing system for an energy infrastructure company.
+Propuesta conceptual de branding, diseño gráfico y marketing B2B para una empresa de infraestructura energética.
 
-## Context
+## Contexto
 
-The public website presents natural-gas processing and infrastructure services, project information, sustainability and certifications. I used that public context as a design exercise for a graphic design application.
+El sitio público presenta servicios de procesamiento de gas natural, infraestructura, proyectos, sustentabilidad y certificaciones. Utilicé ese contexto como ejercicio para una candidatura de diseño gráfico.
 
-Reference: [Coast Oil Dynamic](https://www.coastoildynamic.com/).
+Referencia: [Coast Oil Dynamic](https://www.coastoildynamic.com/).
 
-## Challenge
+## Reto
 
-Translate engineering, operations and corporate responsibility into visual assets that can be understood quickly without relying on generic oil, fire or machinery imagery.
+Traducir ingeniería, operación y responsabilidad corporativa a piezas que puedan entenderse rápido sin depender de imágenes genéricas de petróleo, fuego o maquinaria.
 
-## Audiences
+## Audiencias
 
-- Executives and decision makers.
-- Engineering, operations and maintenance teams.
-- Procurement teams and strategic partners.
-- People evaluating capacity, safety, continuity and sustainability.
+- Dirección y personas tomadoras de decisiones.
+- Ingeniería, operaciones y mantenimiento.
+- Compras y socios estratégicos.
+- Personas que evalúan capacidad, seguridad, continuidad y sustentabilidad.
 
-## Communication objective
+## Objetivo de comunicación
 
-Build a recognizable, modular visual presence that can present complex projects with evidence, hierarchy and a clear invitation to start a technical conversation.
+Construir una presencia visual reconocible y modular para presentar proyectos complejos con evidencia, jerarquía y una invitación clara a iniciar una conversación técnica.
 
-## Creative direction
+## Dirección creativa
 
-**Energy infrastructure made clear.**
+**Energía que se puede entender.**
 
-Flow lines represent process, continuity and the connection between engineering and operation. Teal communicates movement and precision; amber marks a decision or important signal; deep navy creates technical confidence.
+Las líneas representan proceso, continuidad y conexión entre ingeniería y operación. El turquesa comunica movimiento; el coral aporta personalidad; el amarillo marca decisión y el violeta construye una base memorable.
 
-## Deliverables
+## Entregables
 
-Personal brand board, conceptual energy banner, campaign system, product communication board, UX wireframe board, content variations, performance report, LinkedIn carousel, sustainability post, HSE poster and corporate signature.
+Tablero de identidad personal, banner conceptual, sistema de campaña, tablero de producto, tablero UX, variaciones de contenido, reporte de rendimiento, carrusel, publicación de sustentabilidad, cartel HSE y firma corporativa.
 
-## Boundaries
+## Límites
 
-- This is not official work for Coast Oil Dynamic.
-- Public facts, project figures and claims must be verified before publication.
-- The portfolio uses clear accessibility basics: contrast, alt text, semantic hierarchy and responsive layouts.
+- Este caso no es trabajo oficial para Coast Oil Dynamic.
+- Las cifras y afirmaciones públicas deben verificarse antes de publicarse.
+- El portafolio utiliza contraste, texto alternativo, jerarquía semántica y layouts responsive.
