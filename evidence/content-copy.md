@@ -1,29 +1,29 @@
 # Content and copy system
 
-## Mensaje principal
+## Portfolio message
 
-**Energía que se puede entender.**
+**Design that makes brands easier to trust.**
 
-## Variaciones por objetivo
+## Message variations
 
-| Objetivo | Titular | CTA |
+| Goal | Headline | CTA |
 | --- | --- | --- |
-| Marca | Confiabilidad que fluye. | Conocer la compañía |
-| Proyecto | De la ingeniería a la operación. | Ver el proyecto |
-| Capacidades | Infraestructura para avanzar. | Explorar capacidades |
-| Consulta | Hablemos del siguiente movimiento energético. | Solicitar consulta |
-| Sustentabilidad | Operar hoy pensando en lo que sigue. | Conocer el enfoque |
+| Brand | A visual system built for clarity. | Explore the system |
+| Project | From brief to production-ready asset. | View the process |
+| Capability | Design, content and web in one workflow. | See capabilities |
+| UX | Make the next step obvious. | View the flow |
+| Analytics | Design that learns. | Review the measurement plan |
 
-## Voz
+## Voice
 
-- Clara y precisa, sin sonar fría.
-- Técnica cuando aporta seguridad; humana cuando explica impacto.
-- Segura, no grandilocuente.
-- Basada en evidencia y contexto.
+- Clear and precise without sounding cold.
+- Technical when it improves confidence; human when it explains impact.
+- Direct, organized and evidence-led.
+- Confident without overstating experience.
 
-## Microcopy para interacción
+## Interaction copy
 
-- `Ver proyecto` — lleva a evidencia, no a una página vacía.
-- `Explorar capacidades` — agrupa servicios y evita una navegación dispersa.
-- `Solicitar consulta` — reconoce que el proceso B2B empieza con una conversación.
-- `Descargar ficha` — transforma el contenido en herramienta comercial.
+- `Explore selected work` — takes recruiters directly to visual evidence.
+- `Open case` — opens a larger view without leaving the portfolio.
+- `View ATS profile` — provides a plain-text keyword profile.
+- `Email Aline` — keeps the next action simple and visible.
