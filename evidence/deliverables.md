@@ -1,27 +1,24 @@
-# Deliverables y especificaciones
+# Deliverables and production specifications
 
-| Entregable | Archivo | Uso | Especificación de producción |
+| Deliverable | File | Use | Production note |
 | --- | --- | --- | --- |
-| Logo primario | `assets/logo-primary.svg` | web, presentación, firma | SVG editable; conservar área de protección |
-| Logo monocromático | `assets/logo-monochrome.svg` | favicon, avatar, fondos oscuros | SVG; usar en positivo o negativo |
-| Banner LinkedIn | `assets/social-linkedin.svg` | awareness corporativo | 1200 × 627; exportar PNG/JPG para plataforma |
-| Tarjeta de datos | `assets/infographic-card.svg` | social, sales enablement | 1080 × 1080; validar cifras antes de publicar |
-| Portada de deck | `assets/presentation-cover.svg` | propuestas y reuniones | 16:9; reemplazar “2026” por fecha real |
-| Encabezado de email | `assets/email-header.svg` | nurturing B2B | 600 × 260; añadir texto alternativo |
-| Anuncio cuadrado | `assets/ad-square.svg` | Meta Ads / campaña | 1080 × 1080; probar CTA y copy |
-| Carrusel LinkedIn | `assets/linkedin-carousel.svg` | educación B2B, guardados y shares | 1080 × 1080; exportar cada lámina como secuencia |
-| Post de sustentabilidad | `assets/sustainability-post.svg` | reputación, ESG y cultura de responsabilidad | 1080 × 1080; validar compromisos y claims |
-| Cartel HSE | `assets/safety-poster.svg` | comunicación interna y recordación | 1200 × 1500; adaptar a impresión y señalética |
-| Firma corporativa | `assets/corporate-signature.svg` | consistencia en email y contacto comercial | 900 × 300; probar legibilidad en clientes de correo |
+| Personal brand board | `assets/aline-brand-board.svg` | portfolio identity and visual direction | Editable SVG; keep the monogram and palette as reusable components |
+| Conceptual energy banner | `assets/hero-banner.svg` | case-study hero and LinkedIn direction | 1200 × 627; export PNG/JPG when required |
+| Intersyst campaign board | `assets/intersyst-campaign.svg` | security campaign and service communication | 1200 × 900; adapt pillars by audience |
+| AUTOSISE product board | `assets/autosise-product.svg` | product marketing and showroom communication | 1200 × 900; prepare responsive crops |
+| UX wireframe board | `assets/ux-wireframe.svg` | flow, wireframe and responsive UI evidence | 1200 × 900; replace sample content with approved copy |
+| Content variations board | `assets/social-variations.svg` | social, story and email adaptations | 1200 × 900; export channel-specific versions |
+| Creative performance report | `assets/editorial-report.svg` | marketing analytics and reporting | 1200 × 900; validate live data before publishing |
+| LinkedIn carousel | `assets/linkedin-carousel.svg` | editorial B2B content | 1080 × 1080; export each slide as a sequence |
+| Sustainability post | `assets/sustainability-post.svg` | responsibility and reputation messaging | 1080 × 1080; verify claims and commitments |
+| HSE poster | `assets/safety-poster.svg` | internal safety communication | 1200 × 1500; prepare print and signage versions |
+| Corporate signature | `assets/corporate-signature.svg` | consistent email touchpoint | 900 × 300; test in common email clients |
 
-## Handoff
+## Handoff checklist
 
-Antes de entregar a producción: revisar logotipo en tamaños pequeños, convertir textos a curvas solo en la versión final, exportar SVG/PNG/PDF, documentar nombre de campaña y conservar un archivo fuente editable por pieza.
-
-## Accesibilidad
-
-Mantener contraste de texto, evitar colocar información crítica solo dentro de la imagen, añadir texto alternativo y comprobar lectura en móvil. El sitio de evidencia usa HTML semántico, navegación por anclas y estados de tema con contraste alto.
-
-## Prototipo de contenido
-
-La sección `Creative Playground` documenta tres decisiones que cambiarían la pieza sin cambiar el sistema: audiencia (dirección, ingeniería u operaciones, compras), objetivo (autoridad, evidencia o conversación) y canal (LinkedIn, email o deck). Esto permite explicar en entrevista cómo pasaría de un brief a una matriz de mensajes reutilizable.
+- Confirm the final logo at small sizes.
+- Keep an editable source file for each production asset.
+- Export SVG, PNG and PDF versions as appropriate.
+- Document campaign name, channel, dimensions and version number.
+- Check contrast, alt text, responsive crops and safe areas.
+- Verify all statistics, claims, names and dates before publication.
