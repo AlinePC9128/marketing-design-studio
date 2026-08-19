@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#fffdfb"/>
+  <rect x="0" y="0" width="1200" height="106" fill="#1a1230"/>
+  <text x="58" y="45" fill="#ffcb3d" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">CONSTRUCCIÓN DE LOGOTIPO</text>
+  <text x="58" y="77" fill="#ffffff" font-family="Arial, sans-serif" font-size="15">Del gesto inicial a un símbolo reproducible.</text>
+  <g stroke="#dcd0e3" stroke-width="2" fill="none" transform="translate(62 165)">
+    <path d="M0 0H430M0 130H430M0 260H430M0 390H430M0 520H430"/>
+    <path d="M0 0V520M86 0V520M172 0V520M258 0V520M344 0V520M430 0V520"/>
+    <circle cx="215" cy="260" r="172" stroke="#ff5b70" stroke-width="4"/>
+    <circle cx="215" cy="260" r="86" stroke="#00bfae" stroke-width="4"/>
+    <path d="M108 382V146l107 120 107-120v236M161 322h108" stroke="#7046ff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(570 168)">
+    <text x="0" y="0" fill="#7046ff" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">01 / ESTRUCTURA</text>
+    <text x="0" y="54" fill="#1a1230" font-family="Arial, sans-serif" font-size="31" font-weight="700">Módulo, ritmo y contraste</text>
+    <text x="0" y="98" fill="#6e6576" font-family="Arial, sans-serif" font-size="17">Una retícula simple permite que el símbolo</text>
+    <text x="0" y="124" fill="#6e6576" font-family="Arial, sans-serif" font-size="17">se mantenga legible en digital e impresión.</text>
+    <rect x="0" y="170" width="510" height="2" fill="#ead9e5"/>
+    <text x="0" y="220" fill="#ff5b70" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">02 / PRINCIPIO</text>
+    <text x="0" y="265" fill="#1a1230" font-family="Arial, sans-serif" font-size="29" font-weight="700">La inicial se convierte en sistema.</text>
+    <text x="0" y="308" fill="#6e6576" font-family="Arial, sans-serif" font-size="17">El gesto puede vivir como monograma,</text>
+    <text x="0" y="334" fill="#6e6576" font-family="Arial, sans-serif" font-size="17">sello, favicon, avatar o firma editorial.</text>
+    <rect x="0" y="382" width="510" height="2" fill="#ead9e5"/>
+    <text x="0" y="432" fill="#00a795" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">03 / PRUEBA</text>
+    <text x="0" y="476" fill="#1a1230" font-family="Arial, sans-serif" font-size="29" font-weight="700">Funciona grande. Funciona pequeño.</text>
+    <text x="0" y="520" fill="#6e6576" font-family="Arial, sans-serif" font-size="17">La identidad se entrega con reglas, no solo</text>
+    <text x="0" y="546" fill="#6e6576" font-family="Arial, sans-serif" font-size="17">con un archivo aislado.</text>
+  </g>
+  <circle cx="1080" cy="86" r="20" fill="#ff5b70"/><circle cx="1126" cy="86" r="20" fill="#00bfae"/><circle cx="1172" cy="86" r="20" fill="#ffcb3d"/>
+</svg>
