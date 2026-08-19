@@ -1,42 +1,42 @@
-# Creative brief — Coast Oil Dynamic
+# Creative brief — Coast Oil Dynamic conceptual case
 
-## Tipo de proyecto
+## Project type
 
-Propuesta conceptual de branding, diseño gráfico y marketing B2B para una empresa de infraestructura energética.
+Conceptual branding, graphic design and B2B marketing system for an energy infrastructure company.
 
-## Contexto
+## Context
 
-El sitio público de Coast Oil Dynamic comunica soluciones integrales para la cadena de valor del gas natural: compresión, tratamiento, deshidratación, eliminación de hidrocarburos y Gas LP. También presenta proyectos con datos de capacidad, contrato y confiabilidad, además de sustentabilidad y certificaciones.
+The public website presents natural-gas processing and infrastructure services, project information, sustainability and certifications. I used that public context as a design exercise for a graphic design application.
 
-Fuente de referencia: [Coast Oil Dynamic](https://www.coastoildynamic.com/).
+Reference: [Coast Oil Dynamic](https://www.coastoildynamic.com/).
 
-## Reto
+## Challenge
 
-Traducir ingeniería, operación y responsabilidad corporativa a piezas visuales que puedan entenderse rápido sin caer en clichés de petróleo, llamas o maquinaria como único recurso.
+Translate engineering, operations and corporate responsibility into visual assets that can be understood quickly without relying on generic oil, fire or machinery imagery.
 
-## Audiencias
+## Audiences
 
-- Dirección y tomadores de decisión.
-- Ingeniería, operaciones y mantenimiento.
-- Compras y socios estratégicos.
-- Personas que evalúan capacidades, seguridad, continuidad y sustentabilidad.
+- Executives and decision makers.
+- Engineering, operations and maintenance teams.
+- Procurement teams and strategic partners.
+- People evaluating capacity, safety, continuity and sustainability.
 
-## Objetivo de comunicación
+## Communication objective
 
-Construir una presencia visual más reconocible y modular, capaz de presentar proyectos complejos con evidencia, jerarquía y una llamada a la conversación técnica.
+Build a recognizable, modular visual presence that can present complex projects with evidence, hierarchy and a clear invitation to start a technical conversation.
 
-## Concepto
+## Creative direction
 
-**Energía que se puede entender / Confiabilidad que fluye.**
+**Energy infrastructure made clear.**
 
-Las líneas de flujo representan gas, procesos, continuidad y conexión entre ingeniería y operación. El ámbar funciona como señal de decisión; el teal comunica proceso, precisión y responsabilidad.
+Flow lines represent process, continuity and the connection between engineering and operation. Teal communicates movement and precision; amber marks a decision or important signal; deep navy creates technical confidence.
 
-## Entregables conceptuales
+## Deliverables
 
-Logotipo, paleta, tipografía, banner de LinkedIn, tarjeta de datos, portada de presentación, encabezado de email, anuncio cuadrado y documentación de medición.
+Personal brand board, conceptual energy banner, campaign system, product communication board, UX wireframe board, content variations, performance report, LinkedIn carousel, sustainability post, HSE poster and corporate signature.
 
-## Restricciones
+## Boundaries
 
-- No presentar la propuesta como trabajo oficial para Coast Oil Dynamic.
-- Verificar cifras, nombres de proyectos y certificaciones antes de publicar.
-- Mantener contraste y legibilidad en pantallas, impresión y formatos móviles.
+- This is not official work for Coast Oil Dynamic.
+- Public facts, project figures and claims must be verified before publication.
+- The portfolio uses clear accessibility basics: contrast, alt text, semantic hierarchy and responsive layouts.
