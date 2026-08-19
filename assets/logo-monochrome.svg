@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Conceptual CD mark">
+  <rect width="80" height="80" rx="17" fill="#0b1724"/>
+  <path d="M27 16C14 16 8 27 8 40s6 24 19 24c7 0 13-3 17-8" fill="none" stroke="#fffdf8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M29 30c8 0 14 4 14 10s-6 10-14 10h-5V30z" fill="none" stroke="#1fb7a6" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M50 16v48h8c9 0 16-11 16-24S67 16 58 16z" fill="none" stroke="#fffdf8" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="67" cy="16" r="4" fill="#f5a623"/>
+</svg>
