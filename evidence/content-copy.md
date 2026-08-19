@@ -1,29 +1,29 @@
-# Content and copy system
+# Sistema de contenido y copy
 
-## Portfolio message
+## Mensaje del portafolio
 
-**Design that makes brands easier to trust.**
+**Diseño que hace que las marcas sean fáciles de recordar.**
 
-## Message variations
+## Variaciones por objetivo
 
-| Goal | Headline | CTA |
+| Objetivo | Titular | CTA |
 | --- | --- | --- |
-| Brand | A visual system built for clarity. | Explore the system |
-| Project | From brief to production-ready asset. | View the process |
-| Capability | Design, content and web in one workflow. | See capabilities |
-| UX | Make the next step obvious. | View the flow |
-| Analytics | Design that learns. | Review the measurement plan |
+| Marca | Un sistema visual para ideas claras. | Explorar el sistema |
+| Proyecto | Del brief a una pieza lista para producción. | Ver el proceso |
+| Capacidad | Diseño, contenido y web en un mismo flujo. | Ver capacidades |
+| UX | Hacer evidente el siguiente paso. | Ver el flujo |
+| Analítica | Diseño que aprende. | Revisar medición |
 
-## Voice
+## Voz
 
-- Clear and precise without sounding cold.
-- Technical when it improves confidence; human when it explains impact.
-- Direct, organized and evidence-led.
-- Confident without overstating experience.
+- Clara y precisa sin sonar fría.
+- Técnica cuando aumenta la confianza; humana cuando explica el impacto.
+- Directa, organizada y basada en evidencia.
+- Segura sin exagerar la experiencia.
 
-## Interaction copy
+## Copy de interacción
 
-- `Explore selected work` — takes recruiters directly to visual evidence.
-- `Open case` — opens a larger view without leaving the portfolio.
-- `View ATS profile` — provides a plain-text keyword profile.
-- `Email Aline` — keeps the next action simple and visible.
+- `Ver proyectos seleccionados` — lleva directamente a la evidencia visual.
+- `Abrir caso` — amplía la pieza sin abandonar el portafolio.
+- `Ver perfil ATS` — ofrece un perfil de palabras clave en texto plano.
+- `Escribir a Aline` — mantiene simple la siguiente acción.
