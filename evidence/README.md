@@ -12,10 +12,16 @@ Esta carpeta convierte el portafolio en una evidencia defendible durante una ent
 6. [Contenido y copy](content-copy.md) — mensajes y llamados a la acción.
 7. [Perfil ATS](ats-profile.md) — perfil de reclutamiento y palabras clave.
 
+## Referencias profesionales
+
+La carpeta visual de `assets/professional/` reúne nueve piezas proporcionadas por Aline como evidencia de trabajo para [Intersyst Seguridad y Control](https://intersyst.com.mx/) y [AUTOSISE](https://autosise.com.mx/). Se muestran como producción profesional: campañas, comunicación de producto, infografías y piezas educativas.
+
+El relato correcto para entrevista es: “Desarrollé la propuesta visual desde el contexto del producto y el objetivo de comunicación. Cuando utilicé IA, fue como apoyo para investigar, idear o explorar imágenes; la dirección de arte, la composición, la consistencia, la adaptación y la revisión final fueron humanas”.
+
 ## Orden para entrevista
 
 Explicar el trabajo en este orden: contexto → decisión visual → entregables → medición → siguiente iteración.
 
 La idea central es: “No hice una pieza aislada; construí un sistema visual que puede vivir en logotipo, contenido, email, web y campañas”.
 
-La galería de disciplinas contiene ejemplos conceptuales creados para demostrar alcance visual. No se presentan como trabajos oficiales de clientes ni sustituyen la evidencia profesional de Intersyst y Autosise.
+La galería de disciplinas contiene ejemplos conceptuales creados para demostrar alcance visual. No se presentan como trabajos oficiales de clientes ni sustituyen la evidencia profesional de Intersyst y AUTOSISE.

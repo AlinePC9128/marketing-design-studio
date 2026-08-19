@@ -4,7 +4,9 @@
 
 El portafolio utiliza una narrativa editorial de desplazamiento: primero presenta la mirada de Aline sobre la marca, después muestra casos, construcción, manual, aplicaciones y método, y al final deja las capacidades digitales como soporte. El objetivo es que un reclutador entienda en pocos segundos que la fortaleza principal es convertir una idea de negocio en un sistema visual utilizable.
 
-La nueva dirección visual abandona la paleta pastel anterior y utiliza una base editorial de blanco, negro y grises, con acentos controlados de azul cobalto, naranja vermellón y verde ácido. La composición usa bloques planos, tipografía grande, láminas generadas para demostrar disciplinas, captions breves y una carpeta de evidencia que distingue experiencia profesional, proyecto propio y propuesta conceptual.
+La nueva dirección visual abandona la paleta pastel anterior y utiliza una base editorial de blanco, negro y grises, con acentos controlados de azul cobalto, naranja vermellón y verde ácido. La composición usa bloques planos, tipografía grande, láminas conceptuales para demostrar disciplinas, captions breves y una carpeta de evidencia que distingue experiencia profesional, proyecto propio y propuesta conceptual.
+
+La sección profesional incorpora piezas de Intersyst y AUTOSISE porque permiten mostrar producción aplicada: mensajes de seguridad, campañas educativas, comunicación de producto, infografías y adaptaciones para canales reales. El relato de “desde cero” se sostiene en el proceso: contexto, objetivo, dirección visual, composición, adaptaciones y control de calidad. La IA se presenta como apoyo para investigar, idear, editar o explorar variaciones, no como sustituto del criterio de diseño.
 
 ## Paleta
 

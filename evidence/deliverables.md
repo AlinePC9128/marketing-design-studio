@@ -14,6 +14,15 @@
 | Editorial e infografía | `assets/editorial-infographic-generated.webp` | reportes, datos y diagramas | Ejemplo conceptual de diseño editorial |
 | Campaña para redes | `assets/social-campaign-generated.webp` | publicaciones, historias y carruseles | Ejemplo conceptual de contenido multiformato |
 | Guion gráfico de video | `assets/motion-storyboard-generated.webp` | reels, secuencias y animación | Ejemplo conceptual para edición y video |
+| Intersyst — control de acceso | `assets/professional/intersyst-access-control.webp` | campaña de seguridad y protección | Referencia profesional proporcionada por Aline |
+| Intersyst — cerco eléctrico | `assets/professional/intersyst-electric-fence.webp` | infografía de beneficios | Referencia profesional; validar datos antes de republicar |
+| Intersyst — acceso y videovigilancia | `assets/professional/intersyst-access-control-green.webp` | comunicación de producto | Referencia profesional proporcionada por Aline |
+| Intersyst — sistema de alarma | `assets/professional/intersyst-alarm-team.webp` | campaña de servicio y soporte | Referencia profesional proporcionada por Aline |
+| Intersyst — actualización de tecnología | `assets/professional/intersyst-installer.webp` | contenido educativo | Referencia profesional proporcionada por Aline |
+| Intersyst — continuidad de comunicación | `assets/professional/intersyst-connectivity.webp` | campaña de prevención | Referencia profesional proporcionada por Aline |
+| AUTOSISE — apagador inteligente | `assets/professional/autosise-smart-switch.webp` | comunicación de producto | Referencia profesional proporcionada por Aline |
+| AUTOSISE — iluminación inteligente | `assets/professional/autosise-smart-light.webp` | comunicación de producto | Referencia profesional proporcionada por Aline |
+| AUTOSISE — cámara Tiandy | `assets/professional/autosise-tiandy-camera.webp` | campaña de producto | Referencia profesional proporcionada por Aline |
 | Banner conceptual energético | `assets/hero-banner.svg` | portada y dirección de LinkedIn | 1200 × 627; exportar PNG/JPG cuando sea necesario |
 | Sistema de campaña Intersyst | `assets/intersyst-campaign.svg` | comunicación de seguridad y servicios | 1200 × 900; adaptar pilares por audiencia |
 | Tablero de producto AUTOSISE | `assets/autosise-product.svg` | producto y showroom | 1200 × 900; preparar recortes responsive |
