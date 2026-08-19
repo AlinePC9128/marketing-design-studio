@@ -1,27 +1,27 @@
-# Analytics and optimization plan
+# Plan de analítica y optimización
 
-## Principle
+## Principio
 
-Measurement is defined before production so the creative team knows what behavior should be observed.
+La medición se define antes de producir para saber qué comportamiento queremos observar.
 
-## Creative funnel
+## Embudo creativo
 
-| Stage | Hypothesis | Event | KPI | Decision |
+| Etapa | Hipótesis | Evento | KPI | Decisión |
 | --- | --- | --- | --- | --- |
-| Awareness | Consistent visual identity improves recognition | `view_content` | qualified reach, branded search | repeat the strongest system |
-| Consideration | Evidence-led content increases trust | `case_open` | interaction, 75% scroll | scale proof-based assets |
-| Conversion | A consultative CTA reduces friction | `consultation_submit` | completion rate, qualified forms | improve copy and form flow |
-| Nurturing | Technical context improves lead quality | `email_click` | CTR, replies, meetings | segment by interest |
+| Awareness | Una identidad consistente mejora el reconocimiento | `view_content` | alcance cualificado, búsquedas de marca | repetir el sistema más fuerte |
+| Consideración | El contenido con evidencia aumenta la confianza | `case_open` | interacción, scroll 75% | escalar piezas con datos |
+| Conversión | Un CTA consultivo reduce fricción | `consultation_submit` | formularios completos, calidad del lead | mejorar copy y formulario |
+| Nurturing | El contexto técnico mejora el lead | `email_click` | CTR, respuestas, reuniones | segmentar por interés |
 
-## Test ideas
+## Pruebas
 
-1. Data-led card versus image-led card.
-2. “Request a consultation” versus “Explore capabilities”.
-3. Technical headline versus operational-benefit headline.
-4. Carousel sequence versus single post.
+1. Tarjeta con datos contra tarjeta basada solo en imagen.
+2. “Solicitar consulta” contra “Explorar capacidades”.
+3. Titular técnico contra titular de beneficio operativo.
+4. Carrusel de datos contra publicación única.
 
-## Suggested implementation
+## Implementación sugerida
 
-Use GA4 and Google Tag Manager for events, UTMs by channel and variant, and a dashboard in Power BI or Looker Studio. Review CTR, quality of lead, form completion and progress to meeting on a regular cadence.
+GA4 y Google Tag Manager para eventos, UTMs por canal y variante, y dashboard en Power BI o Looker Studio. Revisar CTR, calidad del lead, finalización de formularios y avance a reunión.
 
-The figures shown in this conceptual case are testing targets or documented professional scope; they are not results attributed to Coast Oil Dynamic.
+Las cifras de este caso son objetivos de prueba o alcance profesional documentado; no son resultados atribuidos a Coast Oil Dynamic.
