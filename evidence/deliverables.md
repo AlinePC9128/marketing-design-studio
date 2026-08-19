@@ -7,6 +7,13 @@
 | Manual de identidad | `assets/brand-guidelines.svg` | reglas de uso y reproducción | Validar paleta, contraste, tamaños mínimos y fondos |
 | Aplicaciones de marca | `assets/brand-applications.svg` | papelería, social y web | Mostrar la misma identidad en escalas y canales distintos |
 | Arquitectura de identidad | `assets/brand-identity-map.svg` | estrategia, expresión y sistema | Usar como lámina de presentación del caso |
+| Tablero generado de identidad | `assets/brand-identity-generated.webp` | identidad visual y aplicaciones | Ejemplo conceptual; revisar referencias y derechos antes de usarlo comercialmente |
+| Exploración de logotipo | `assets/logo-exploration-generated.webp` | construcción y variantes | Ejemplo conceptual de proceso de logotipo |
+| Aplicaciones gráficas | `assets/graphic-applications-generated.webp` | cartel, publicaciones, volante y señalización | Ejemplo conceptual de dirección de arte |
+| Papelería y empaque | `assets/packaging-stationery-generated.webp` | empaque, etiquetas y piezas impresas | Ejemplo conceptual de producción física |
+| Editorial e infografía | `assets/editorial-infographic-generated.webp` | reportes, datos y diagramas | Ejemplo conceptual de diseño editorial |
+| Campaña para redes | `assets/social-campaign-generated.webp` | publicaciones, historias y carruseles | Ejemplo conceptual de contenido multiformato |
+| Guion gráfico de video | `assets/motion-storyboard-generated.webp` | reels, secuencias y animación | Ejemplo conceptual para edición y video |
 | Banner conceptual energético | `assets/hero-banner.svg` | portada y dirección de LinkedIn | 1200 × 627; exportar PNG/JPG cuando sea necesario |
 | Sistema de campaña Intersyst | `assets/intersyst-campaign.svg` | comunicación de seguridad y servicios | 1200 × 900; adaptar pilares por audiencia |
 | Tablero de producto AUTOSISE | `assets/autosise-product.svg` | producto y showroom | 1200 × 900; preparar recortes responsive |

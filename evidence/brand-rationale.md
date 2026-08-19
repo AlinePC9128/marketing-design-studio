@@ -4,17 +4,17 @@
 
 El portafolio utiliza una narrativa editorial de desplazamiento: primero presenta la mirada de Aline sobre la marca, después muestra casos, construcción, manual, aplicaciones y método, y al final deja las capacidades digitales como soporte. El objetivo es que un reclutador entienda en pocos segundos que la fortaleza principal es convertir una idea de negocio en un sistema visual utilizable.
 
-La dirección visual utiliza bloques de color intenso, tipografía grande, composiciones tipo lámina, captions breves y una carpeta de evidencia que distingue experiencia profesional, proyecto propio y propuesta conceptual.
+La nueva dirección visual abandona la paleta pastel anterior y utiliza una base editorial de blanco, negro y grises, con acentos controlados de azul cobalto, naranja vermellón y verde ácido. La composición usa bloques planos, tipografía grande, láminas generadas para demostrar disciplinas, captions breves y una carpeta de evidencia que distingue experiencia profesional, proyecto propio y propuesta conceptual.
 
 ## Paleta
 
 | Color | Hex | Uso |
 | --- | --- | --- |
-| Violeta | `#7046FF` | encabezados, identidad y profundidad |
-| Coral | `#FF5B70` | personalidad, llamados y énfasis |
-| Turquesa | `#00BFAE` | movimiento, enlaces y estados activos |
-| Amarillo | `#FFCB3D` | datos, señales y contraste |
-| Azul | `#3478F6` | tecnología y producto |
+| Negro | `#111111` | base, contraste y lectura |
+| Blanco | `#FFFFFF` | espacio y presentación editorial |
+| Azul cobalto | `#1D45D8` | estructura, profundidad y llamadas |
+| Naranja vermellón | `#FF4A16` | énfasis y energía visual |
+| Verde ácido | `#D5EF00` | señales pequeñas y contraste |
 
 ## Tipografía y jerarquía
 
@@ -23,6 +23,7 @@ La dirección visual utiliza bloques de color intenso, tipografía grande, compo
 - Textos cortos para que las imágenes sean el centro.
 - Una idea principal y una acción por tarjeta.
 - Los encabezados funcionan como títulos de lámina; las etiquetas numeradas permiten recorrer la historia como un caso editorial.
+- Los acentos aparecen por bloques y no como degradados; la paleta no compite con el contenido de cada caso.
 
 ## Principios de composición
 

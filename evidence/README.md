@@ -17,3 +17,5 @@ Esta carpeta convierte el portafolio en una evidencia defendible durante una ent
 Explicar el trabajo en este orden: contexto → decisión visual → entregables → medición → siguiente iteración.
 
 La idea central es: “No hice una pieza aislada; construí un sistema visual que puede vivir en logotipo, contenido, email, web y campañas”.
+
+La galería de disciplinas contiene ejemplos conceptuales creados para demostrar alcance visual. No se presentan como trabajos oficiales de clientes ni sustituyen la evidencia profesional de Intersyst y Autosise.

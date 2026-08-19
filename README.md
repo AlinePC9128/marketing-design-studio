@@ -2,7 +2,7 @@
 
 Portafolio editorial en español de Aline Peña Colunga, enfocado en diseño de marca, identidad visual y dirección de arte, con capacidades complementarias de diseño digital, UX/UI, web y marketing.
 
-La navegación está planteada como una presentación visual: manifiesto, casos de marca, construcción de logotipo, paleta, tipografía, manual, aplicaciones y proceso. Intersyst y Autosise se presentan como experiencia profesional; la propuesta para Coast Oil Dynamic y los tableros de método se identifican como conceptuales.
+La navegación está planteada como una presentación visual: manifiesto, casos de marca, galería de disciplinas, construcción de logotipo, paleta, tipografía, manual, aplicaciones y proceso. Intersyst y Autosise se presentan como experiencia profesional; la propuesta para Coast Oil Dynamic y los ejemplos visuales nuevos se identifican como conceptuales.
 
 ## Perfil profesional
 
@@ -20,6 +20,7 @@ La navegación está planteada como una presentación visual: manifiesto, casos 
 - Dirección de arte y sistemas de marca aplicados a redes, email, anuncios, presentaciones, documentos y web.
 - Manual de identidad con área de seguridad, versiones, usos y criterios de reproducción.
 - Casos profesionales de Intersyst y Autosise, además de propuestas propias y conceptuales claramente etiquetadas.
+- Galería de ejemplos: identidad, logo, dirección de arte, papelería, empaque, editorial, infografía, redes, campañas y storyboard para video.
 
 ## Capacidades complementarias
 
@@ -44,9 +45,10 @@ Abre `http://localhost:4173/projects/marketing-design-studio/`.
 
 1. Lee el manifiesto para entender el enfoque de diseño de marca.
 2. Filtra los casos por marca, campaña, digital o UX/Web.
-3. Haz clic en una pieza para abrir la vista ampliada.
-4. Revisa aplicaciones, manual, método y herramientas.
-5. Abre `evidence/ats-profile.md` para ver el perfil de palabras clave.
+3. Recorre la galería para ver ejemplos de las principales disciplinas de diseño gráfico.
+4. Haz clic en una pieza para abrir la vista ampliada.
+5. Revisa aplicaciones, manual, método y herramientas.
+6. Abre `evidence/ats-profile.md` para ver el perfil de palabras clave.
 
 ## Carpeta de evidencia
 
@@ -59,7 +61,7 @@ marketing-design-studio/
 ├── index.html
 ├── styles.css
 ├── app.js
-├── assets/                 # demostraciones visuales SVG editables
+├── assets/                 # demostraciones SVG y láminas WEBP de portafolio
 ├── evidence/               # evidencia para entrevista y ATS
 └── .github/workflows/      # despliegue en GitHub Pages
 ```
