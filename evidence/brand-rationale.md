@@ -2,7 +2,9 @@
 
 ## Dirección del portafolio
 
-El portafolio utiliza un sistema editorial expresivo para comunicar la mezcla de diseño gráfico, producción digital, UX/UI y marketing de Aline. La dirección visual utiliza bloques de color, tipografía grande, tarjetas de evidencia y una paleta con personalidad.
+El portafolio utiliza una narrativa editorial de desplazamiento: primero presenta la mirada de Aline sobre la marca, después muestra casos, construcción, manual, aplicaciones y método, y al final deja las capacidades digitales como soporte. El objetivo es que un reclutador entienda en pocos segundos que la fortaleza principal es convertir una idea de negocio en un sistema visual utilizable.
+
+La dirección visual utiliza bloques de color intenso, tipografía grande, composiciones tipo lámina, captions breves y una carpeta de evidencia que distingue experiencia profesional, proyecto propio y propuesta conceptual.
 
 ## Paleta
 
@@ -20,6 +22,7 @@ El portafolio utiliza un sistema editorial expresivo para comunicar la mezcla de
 - Etiquetas monoespaciadas para encontrar rápido rol, formato, herramienta y evidencia.
 - Textos cortos para que las imágenes sean el centro.
 - Una idea principal y una acción por tarjeta.
+- Los encabezados funcionan como títulos de lámina; las etiquetas numeradas permiten recorrer la historia como un caso editorial.
 
 ## Principios de composición
 
@@ -28,6 +31,7 @@ El portafolio utiliza un sistema editorial expresivo para comunicar la mezcla de
 3. Sistemas antes que piezas aisladas.
 4. El contraste ayuda a decidir.
 5. Cada formato debe conservar la misma intención visual.
+6. El logotipo es el inicio del sistema, no el final del proyecto.
 
 ## Lo que evito
 
