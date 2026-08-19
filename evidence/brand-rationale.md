@@ -1,33 +1,34 @@
-# Brand rationale
+# Razonamiento de marca
 
-## Personal portfolio direction
+## Dirección del portafolio
 
-The portfolio uses a structured editorial system to communicate Aline’s mix of graphic design, digital production, UX/UI and marketing operations. The visual language is deliberately direct: large type, measured spacing, evidence cards and a limited signal palette.
+El portafolio utiliza un sistema editorial expresivo para comunicar la mezcla de diseño gráfico, producción digital, UX/UI y marketing de Aline. La dirección visual utiliza bloques de color, tipografía grande, tarjetas de evidencia y una paleta con personalidad.
 
-## Color system
+## Paleta
 
-| Color | Hex | Role |
+| Color | Hex | Uso |
 | --- | --- | --- |
-| Deep Current | `#0B1724` | confidence, dark surfaces and headings |
-| Process Teal | `#1FB7A6` | links, movement, active states and systems |
-| Signal Amber | `#F5A623` | decisions, highlights and calls to action |
-| Warm Sand | `#F4F0E8` | editorial background and visual breathing room |
+| Violeta | `#7046FF` | encabezados, identidad y profundidad |
+| Coral | `#FF5B70` | personalidad, llamados y énfasis |
+| Turquesa | `#00BFAE` | movimiento, enlaces y estados activos |
+| Amarillo | `#FFCB3D` | datos, señales y contraste |
+| Azul | `#3478F6` | tecnología y producto |
 
-## Typography and hierarchy
+## Tipografía y jerarquía
 
-- Large sans-serif headlines create quick scanning and strong portfolio presence.
-- Monospace labels make role, format, tool and evidence metadata easy to find.
-- Body copy stays short so visual work remains the primary focus.
-- One main idea and one main action are used per card or case.
+- Titulares grandes para facilitar el escaneo y dar presencia al portafolio.
+- Etiquetas monoespaciadas para encontrar rápido rol, formato, herramienta y evidencia.
+- Textos cortos para que las imágenes sean el centro.
+- Una idea principal y una acción por tarjeta.
 
-## Composition principles
+## Principios de composición
 
-1. Structure before decoration.
-2. Evidence before noise.
-3. Systems before one-off assets.
-4. Contrast supports decision-making.
-5. Every format should preserve the same visual intention.
+1. Estructura antes que decoración.
+2. Evidencia antes que ruido.
+3. Sistemas antes que piezas aisladas.
+4. El contraste ayuda a decidir.
+5. Cada formato debe conservar la misma intención visual.
 
-## What I avoid
+## Lo que evito
 
-Generic gradients, stock imagery without context, excessive effects, unreadable text inside graphics and unverified performance claims.
+Gradientes genéricos, imágenes de stock sin contexto, exceso de efectos, texto ilegible y afirmaciones de rendimiento sin fuente.
