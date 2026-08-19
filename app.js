@@ -6,7 +6,7 @@ function setupTheme() {
   if (!button) return;
   const apply = (theme) => {
     document.body.dataset.theme = theme;
-    button.querySelector('.theme-label').textContent = theme === 'dark' ? 'Light' : 'Dark';
+    button.querySelector('.theme-label').textContent = theme === 'dark' ? 'Claro' : 'Oscuro';
     button.setAttribute('aria-pressed', String(theme === 'dark'));
   };
   apply(localStorage.getItem('aline-portfolio-theme') || 'light');
@@ -32,7 +32,7 @@ function setupFilters() {
     const filter = button.dataset.filter;
     $$('.filter').forEach((item) => item.classList.toggle('active', item === button));
     cards.forEach((card) => { card.hidden = filter !== 'all' && !card.dataset.kind.split(' ').includes(filter); });
-    notify(filter === 'all' ? 'Showing all selected work' : `Showing ${button.textContent.trim()} work`);
+    notify(filter === 'all' ? 'Mostrando todos los proyectos' : `Mostrando proyectos de ${button.textContent.trim()}`);
   }));
 }
 
@@ -45,9 +45,9 @@ function setupAssetModal() {
   const close = () => { modal.classList.remove('open'); modal.setAttribute('aria-hidden', 'true'); document.body.classList.remove('modal-open'); };
   const open = (card) => {
     const cardImage = card.querySelector('img');
-    const cardTitle = card.dataset.title || card.querySelector('h3')?.textContent || 'Selected work';
+    const cardTitle = card.dataset.title || card.querySelector('h3')?.textContent || 'Proyecto seleccionado';
     title.textContent = cardTitle;
-    description.textContent = card.querySelector('.project-copy p')?.textContent || card.querySelector('small')?.textContent || 'Visual evidence from Aline Peña Colunga’s design portfolio.';
+    description.textContent = card.querySelector('.project-copy p')?.textContent || card.querySelector('small')?.textContent || 'Evidencia visual del portafolio de diseño de Aline Peña Colunga.';
     image.src = cardImage.src;
     image.alt = cardImage.alt;
     modal.classList.add('open');
@@ -57,7 +57,7 @@ function setupAssetModal() {
   $$('.project-card, .evidence-card').forEach((card) => {
     card.tabIndex = 0;
     card.setAttribute('role', 'button');
-    card.setAttribute('aria-label', `Open ${card.dataset.title || card.querySelector('h3')?.textContent || 'visual evidence'}`);
+    card.setAttribute('aria-label', `Abrir ${card.dataset.title || card.querySelector('h3')?.textContent || 'evidencia visual'}`);
     card.addEventListener('click', (event) => { if (event.target.closest('a')) event.preventDefault(); open(card); });
     card.addEventListener('keydown', (event) => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); open(card); } });
   });
