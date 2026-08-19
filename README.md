@@ -8,11 +8,12 @@ Caso conceptual de marketing, diseño gráfico y comunicación B2B creado por Al
 
 - Investigación visual y traducción de información técnica a mensajes claros.
 - Concepto de marca, logotipo conceptual, paleta, tipografía y reglas de uso.
-- Diseño gráfico multicanal: LinkedIn, social media, anuncios, email y presentación corporativa.
+- Diseño gráfico multicanal: LinkedIn, carrusel editorial, social media, sustentabilidad, HSE, anuncios, email y presentación corporativa.
 - Art direction para una empresa B2B de energía sin depender de imágenes genéricas.
 - Copywriting, jerarquía visual y llamados a la acción consultivos.
 - Analítica aplicada al diseño: hipótesis, eventos, KPI y variantes A/B.
 - Producción editable en SVG/CSS y documentación para handoff.
+- Prototipado interactivo: filtros por disciplina, vista ampliada de assets, buscador de evidencias y generador de mensajes por audiencia/canal.
 
 ## Ejecutar localmente
 
@@ -43,3 +44,10 @@ marketing-design-studio/
 ## Referencia pública utilizada
 
 La propuesta toma como contexto visible del sitio: infraestructura energética en México, procesamiento y tratamiento de gas natural, proyectos Papan y Perdiz, sustentabilidad, certificaciones y sede en Veracruz. Los datos usados en las piezas están marcados como referencia pública y deben verificarse antes de convertirse en comunicación oficial.
+
+## Cómo recorrer la demo
+
+- Filtra el campaign kit por marca, digital o contenido.
+- Haz clic en cualquier pieza para abrir su vista ampliada.
+- En `Creative Playground`, cambia audiencia, objetivo y canal para generar una variación de mensaje y copiar el brief.
+- Busca dentro de la carpeta de evidencia para preparar una conversación de entrevista.
