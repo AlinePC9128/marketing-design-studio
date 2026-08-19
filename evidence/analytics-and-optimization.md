@@ -1,25 +1,27 @@
 # Analytics and optimization plan
 
-## Principio
+## Principle
 
-La analítica no se usa para justificar una pieza después de publicarla. Se define antes para saber qué comportamiento queremos observar.
+Measurement is defined before production so the creative team knows what behavior should be observed.
 
-## Funnel creativo
+## Creative funnel
 
-| Etapa | Hipótesis | Evento | KPI | Decisión |
+| Stage | Hypothesis | Event | KPI | Decision |
 | --- | --- | --- | --- | --- |
-| Awareness | Una identidad consistente aumenta reconocimiento | `view_content` | usuarios cualificados, branded search | repetir sistema visual |
-| Consideration | Un dato de proyecto aumenta confianza | `case_open` | interacción, scroll 75% | escalar cards con evidencia |
-| Conversion | Un CTA consultivo reduce fricción | `consultation_submit` | tasa de envío, formularios completos | optimizar copy y formulario |
-| Nurturing | Contexto técnico mejora la calidad del lead | `email_click` | CTR, respuesta, reunión | segmentar por interés |
+| Awareness | Consistent visual identity improves recognition | `view_content` | qualified reach, branded search | repeat the strongest system |
+| Consideration | Evidence-led content increases trust | `case_open` | interaction, 75% scroll | scale proof-based assets |
+| Conversion | A consultative CTA reduces friction | `consultation_submit` | completion rate, qualified forms | improve copy and form flow |
+| Nurturing | Technical context improves lead quality | `email_click` | CTR, replies, meetings | segment by interest |
 
-## Experimentos
+## Test ideas
 
-1. **Dato vs. imagen:** tarjeta con capacidad/confiabilidad frente a fotografía sin dato.
-2. **CTA:** “Solicitar consulta” frente a “Conoce nuestras capacidades”.
-3. **Jerarquía:** titular técnico frente a titular de beneficio operativo.
-4. **Formato:** carrusel de datos frente a publicación única.
+1. Data-led card versus image-led card.
+2. “Request a consultation” versus “Explore capabilities”.
+3. Technical headline versus operational-benefit headline.
+4. Carousel sequence versus single post.
 
-## Instrumentación sugerida
+## Suggested implementation
 
-GA4 y Google Tag Manager para eventos; UTMs por canal, campaña, formato y variante; dashboard en Looker Studio o Power BI; revisión semanal de CTR, calidad de lead y avance a reunión. Las cifras del caso son objetivos de prueba, no resultados atribuidos a Coast Oil Dynamic.
+Use GA4 and Google Tag Manager for events, UTMs by channel and variant, and a dashboard in Power BI or Looker Studio. Review CTR, quality of lead, form completion and progress to meeting on a regular cadence.
+
+The figures shown in this conceptual case are testing targets or documented professional scope; they are not results attributed to Coast Oil Dynamic.
