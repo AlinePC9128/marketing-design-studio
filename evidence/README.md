@@ -1,19 +1,19 @@
-# Evidence folder
+# Carpeta de evidencia
 
-This folder makes the portfolio defensible in an interview. It shows process, judgment, production and measurement instead of presenting only finished images.
+Esta carpeta convierte el portafolio en una evidencia defendible durante una entrevista. Muestra proceso, criterio, producción y medición, no solamente imágenes terminadas.
 
-## Files
+## Archivos
 
-1. [Creative brief](creative-brief.md) — context, audience, challenge and scope.
-2. [Brand rationale](brand-rationale.md) — visual decisions, color, type and composition.
-3. [Deliverables](deliverables.md) — formats, dimensions and production notes.
-4. [Analytics and optimization](analytics-and-optimization.md) — hypotheses, events and KPIs.
-5. [Role alignment](role-alignment.md) — connection to Aline’s proven experience.
-6. [Content and copy](content-copy.md) — message variations and calls to action.
-7. [ATS profile](ats-profile.md) — plain-text recruiter and keyword profile.
+1. [Brief creativo](creative-brief.md) — contexto, audiencia, reto y alcance.
+2. [Razonamiento de marca](brand-rationale.md) — decisiones visuales, color, tipografía y composición.
+3. [Entregables](deliverables.md) — formatos, dimensiones y producción.
+4. [Analítica y optimización](analytics-and-optimization.md) — hipótesis, eventos y KPI.
+5. [Relación con vacantes](role-alignment.md) — conexión con la experiencia comprobada.
+6. [Contenido y copy](content-copy.md) — mensajes y llamados a la acción.
+7. [Perfil ATS](ats-profile.md) — perfil de reclutamiento y palabras clave.
 
-## Interview order
+## Orden para entrevista
 
-Explain the work in this order: context → visual decision → deliverables → measurement → next iteration.
+Explicar el trabajo en este orden: contexto → decisión visual → entregables → medición → siguiente iteración.
 
-The central idea is: “I did not create one isolated asset. I built a visual system that can work across brand, content, email, web and campaigns.”
+La idea central es: “No hice una pieza aislada; construí un sistema visual que puede vivir en marca, contenido, email, web y campañas”.
