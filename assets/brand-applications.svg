@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#fff1e8"/>
+  <circle cx="1080" cy="130" r="130" fill="#ffcb3d" opacity=".65"/><circle cx="1100" cy="665" r="180" fill="#00bfae" opacity=".35"/>
+  <text x="64" y="80" fill="#7046ff" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">APLICACIONES DE MARCA</text>
+  <text x="64" y="124" fill="#1a1230" font-family="Arial, sans-serif" font-size="40" font-weight="700">Una identidad lista para salir al mundo.</text>
+  <text x="64" y="158" fill="#6e6576" font-family="Arial, sans-serif" font-size="17">La idea se prueba en diferentes escalas, formatos y momentos de contacto.</text>
+  <g transform="translate(70 245) rotate(-6)">
+    <rect width="310" height="205" rx="8" fill="#1a1230"/>
+    <circle cx="74" cy="74" r="34" fill="#ff5b70"/><text x="55" y="88" fill="#ffffff" font-family="Arial, sans-serif" font-size="25" font-weight="700">AP</text>
+    <text x="38" y="148" fill="#ffffff" font-family="Arial, sans-serif" font-size="23" font-weight="700">ALINE PEÑA</text><text x="38" y="173" fill="#ffcb3d" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">DISEÑO DE MARCA</text>
+  </g>
+  <g transform="translate(420 214) rotate(4)">
+    <rect width="310" height="280" rx="5" fill="#7046ff"/>
+    <rect x="24" y="24" width="262" height="160" fill="#ffcb3d"/><text x="48" y="93" fill="#1a1230" font-family="Arial, sans-serif" font-size="34" font-weight="700">IDEAS</text><text x="48" y="132" fill="#1a1230" font-family="Arial, sans-serif" font-size="34" font-weight="700">CON</text><text x="48" y="171" fill="#1a1230" font-family="Arial, sans-serif" font-size="34" font-weight="700">FORMA</text>
+    <text x="24" y="226" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">PUBLICACIÓN / 01</text><text x="24" y="252" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">Sistema editorial para redes.</text>
+  </g>
+  <g transform="translate(790 250)">
+    <rect width="310" height="205" rx="9" fill="#fffdfb" stroke="#ead9e5" stroke-width="3"/>
+    <rect width="310" height="26" fill="#ff5b70"/><rect y="26" width="310" height="34" fill="#1a1230"/>
+    <circle cx="35" cy="43" r="10" fill="#ffcb3d"/><text x="58" y="49" fill="#ffffff" font-family="Arial, sans-serif" font-size="12" font-weight="700">alinepc.mx</text>
+    <rect x="26" y="85" width="95" height="95" fill="#00bfae"/><text x="45" y="141" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="700">AP</text>
+    <text x="143" y="110" fill="#1a1230" font-family="Arial, sans-serif" font-size="17" font-weight="700">PORTAFOLIO</text><text x="143" y="137" fill="#6e6576" font-family="Arial, sans-serif" font-size="13">Branding · Digital · UX</text><rect x="143" y="154" width="110" height="9" rx="4" fill="#7046ff"/>
+  </g>
+  <g transform="translate(175 574)">
+    <rect width="850" height="2" fill="#1a1230"/><text x="0" y="42" fill="#ff5b70" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">PRUEBA DE SISTEMA</text><text x="222" y="42" fill="#6e6576" font-family="Arial, sans-serif" font-size="14">papelería · social · web · presentación · email</text>
+  </g>
+</svg>
