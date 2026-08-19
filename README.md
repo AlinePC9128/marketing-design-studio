@@ -1,22 +1,28 @@
-# Aline Peña Colunga — Portafolio de Diseño Gráfico
+# Aline Peña Colunga — Portafolio de Diseño de Marca
 
-Portafolio en español de Aline Peña Colunga, Diseñadora Gráfica, Diseñadora Digital y Diseñadora UX/UI con formación en Ingeniería en Sistemas.
+Portafolio editorial en español de Aline Peña Colunga, enfocado en diseño de marca, identidad visual y dirección de arte, con capacidades complementarias de diseño digital, UX/UI, web y marketing.
 
-El proyecto demuestra identidad visual, sistemas de marca, campañas, contenido para redes, email, presentaciones, UX/UI, diseño web responsive, WordPress, marketing y analítica creativa.
+La navegación está planteada como una presentación visual: manifiesto, casos de marca, construcción de logotipo, paleta, tipografía, manual, aplicaciones y proceso. Intersyst y Autosise se presentan como experiencia profesional; la propuesta para Coast Oil Dynamic y los tableros de método se identifican como conceptuales.
 
 ## Perfil profesional
 
 - Diseñadora gráfica
 - Diseñadora visual
 - Diseñadora digital
-- Diseñadora de branding
+- Diseñadora de marca
 - Diseñadora UX/UI
 - Diseñadora de marketing
 - Diseñadora web WordPress
 
-## Qué demuestra
+## Qué demuestra primero: diseño de marca
 
-- Identidad visual, conceptos de logotipo, paleta, tipografía y lineamientos.
+- Identidad visual, conceptos de logotipo, construcción geométrica, paleta, tipografía, composición y lineamientos.
+- Dirección de arte y sistemas de marca aplicados a redes, email, anuncios, presentaciones, documentos y web.
+- Manual de identidad con área de seguridad, versiones, usos y criterios de reproducción.
+- Casos profesionales de Intersyst y Autosise, además de propuestas propias y conceptuales claramente etiquetadas.
+
+## Capacidades complementarias
+
 - Producción multiformato para redes, email, anuncios, presentaciones y comunicación interna.
 - Arquitectura de información, user flows, wireframes, prototipos en Figma y landing pages.
 - WordPress, Elementor Pro, WooCommerce, HTML5, CSS3, JavaScript, PHP y jQuery.
@@ -36,10 +42,10 @@ Abre `http://localhost:4173/projects/marketing-design-studio/`.
 
 ## Recorrido del portafolio
 
-1. Filtra los proyectos por branding, digital, UX/Web o marketing.
-2. Haz clic en una pieza para abrir la vista ampliada.
-3. Revisa el proceso para entender cómo convierto un brief en un sistema listo para producción.
-4. Revisa la matriz de herramientas y sus niveles de experiencia.
+1. Lee el manifiesto para entender el enfoque de diseño de marca.
+2. Filtra los casos por marca, campaña, digital o UX/Web.
+3. Haz clic en una pieza para abrir la vista ampliada.
+4. Revisa aplicaciones, manual, método y herramientas.
 5. Abre `evidence/ats-profile.md` para ver el perfil de palabras clave.
 
 ## Carpeta de evidencia
