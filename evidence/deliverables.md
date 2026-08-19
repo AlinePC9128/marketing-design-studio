@@ -1,24 +1,24 @@
-# Deliverables and production specifications
+# Entregables y especificaciones de producción
 
-| Deliverable | File | Use | Production note |
+| Entregable | Archivo | Uso | Nota de producción |
 | --- | --- | --- | --- |
-| Personal brand board | `assets/aline-brand-board.svg` | portfolio identity and visual direction | Editable SVG; keep the monogram and palette as reusable components |
-| Conceptual energy banner | `assets/hero-banner.svg` | case-study hero and LinkedIn direction | 1200 × 627; export PNG/JPG when required |
-| Intersyst campaign board | `assets/intersyst-campaign.svg` | security campaign and service communication | 1200 × 900; adapt pillars by audience |
-| AUTOSISE product board | `assets/autosise-product.svg` | product marketing and showroom communication | 1200 × 900; prepare responsive crops |
-| UX wireframe board | `assets/ux-wireframe.svg` | flow, wireframe and responsive UI evidence | 1200 × 900; replace sample content with approved copy |
-| Content variations board | `assets/social-variations.svg` | social, story and email adaptations | 1200 × 900; export channel-specific versions |
-| Creative performance report | `assets/editorial-report.svg` | marketing analytics and reporting | 1200 × 900; validate live data before publishing |
-| LinkedIn carousel | `assets/linkedin-carousel.svg` | editorial B2B content | 1080 × 1080; export each slide as a sequence |
-| Sustainability post | `assets/sustainability-post.svg` | responsibility and reputation messaging | 1080 × 1080; verify claims and commitments |
-| HSE poster | `assets/safety-poster.svg` | internal safety communication | 1200 × 1500; prepare print and signage versions |
-| Corporate signature | `assets/corporate-signature.svg` | consistent email touchpoint | 900 × 300; test in common email clients |
+| Tablero de identidad personal | `assets/aline-brand-board.svg` | identidad y dirección visual | SVG editable; conservar monograma y paleta |
+| Banner conceptual energético | `assets/hero-banner.svg` | portada y dirección de LinkedIn | 1200 × 627; exportar PNG/JPG cuando sea necesario |
+| Sistema de campaña Intersyst | `assets/intersyst-campaign.svg` | comunicación de seguridad y servicios | 1200 × 900; adaptar pilares por audiencia |
+| Tablero de producto AUTOSISE | `assets/autosise-product.svg` | producto y showroom | 1200 × 900; preparar recortes responsive |
+| Tablero de wireframes UX | `assets/ux-wireframe.svg` | flujo, wireframe e interfaz | 1200 × 900; sustituir copy de muestra |
+| Tablero de variaciones | `assets/social-variations.svg` | redes, stories y email | 1200 × 900; exportar por canal |
+| Reporte de rendimiento creativo | `assets/editorial-report.svg` | analítica y reportes | 1200 × 900; validar datos antes de publicar |
+| Carrusel de LinkedIn | `assets/linkedin-carousel.svg` | contenido editorial B2B | 1080 × 1080; exportar cada lámina |
+| Publicación de sustentabilidad | `assets/sustainability-post.svg` | responsabilidad y reputación | 1080 × 1080; validar afirmaciones |
+| Cartel HSE | `assets/safety-poster.svg` | comunicación interna | 1200 × 1500; preparar impresión |
+| Firma corporativa | `assets/corporate-signature.svg` | contacto por email | 900 × 300; probar en clientes de correo |
 
-## Handoff checklist
+## Checklist de entrega
 
-- Confirm the final logo at small sizes.
-- Keep an editable source file for each production asset.
-- Export SVG, PNG and PDF versions as appropriate.
-- Document campaign name, channel, dimensions and version number.
-- Check contrast, alt text, responsive crops and safe areas.
-- Verify all statistics, claims, names and dates before publication.
+- Revisar el logotipo en tamaños pequeños.
+- Conservar un archivo editable por cada pieza.
+- Exportar versiones SVG, PNG y PDF cuando corresponda.
+- Documentar campaña, canal, dimensiones y versión.
+- Revisar contraste, ALT, recortes responsive y áreas seguras.
+- Verificar cifras, nombres y fechas antes de publicar.
