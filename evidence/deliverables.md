@@ -3,6 +3,10 @@
 | Entregable | Archivo | Uso | Nota de producción |
 | --- | --- | --- | --- |
 | Tablero de identidad personal | `assets/aline-brand-board.svg` | identidad y dirección visual | SVG editable; conservar monograma y paleta |
+| Construcción de logotipo | `assets/logo-construction.svg` | retícula, proporción y pruebas | Presentar módulo, área de seguridad y versiones |
+| Manual de identidad | `assets/brand-guidelines.svg` | reglas de uso y reproducción | Validar paleta, contraste, tamaños mínimos y fondos |
+| Aplicaciones de marca | `assets/brand-applications.svg` | papelería, social y web | Mostrar la misma identidad en escalas y canales distintos |
+| Arquitectura de identidad | `assets/brand-identity-map.svg` | estrategia, expresión y sistema | Usar como lámina de presentación del caso |
 | Banner conceptual energético | `assets/hero-banner.svg` | portada y dirección de LinkedIn | 1200 × 627; exportar PNG/JPG cuando sea necesario |
 | Sistema de campaña Intersyst | `assets/intersyst-campaign.svg` | comunicación de seguridad y servicios | 1200 × 900; adaptar pilares por audiencia |
 | Tablero de producto AUTOSISE | `assets/autosise-product.svg` | producto y showroom | 1200 × 900; preparar recortes responsive |
