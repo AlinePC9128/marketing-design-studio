@@ -100,6 +100,8 @@ h3 { font-size: 28px; }
 .button { display: inline-flex; align-items: center; justify-content: center; gap: 12px; padding: 13px 17px; border: 1px solid var(--line); border-radius: 999px; font-size: 11px; text-decoration: none; transition: .2s; }
 .button-primary { border-color: var(--navy); color: #fff; background: var(--navy); }
 .button-primary:hover { border-color: var(--coral); background: var(--coral); }
+.button-cv { border-color: var(--coral); background: var(--coral); }
+.button-cv:hover { border-color: var(--navy); background: var(--navy); }
 .button-ghost:hover { border-color: var(--coral); color: var(--coral); }
 .hero-note { display: grid; gap: 3px; max-width: 580px; margin-top: 35px; padding: 15px 17px; border-left: 4px solid var(--coral); background: rgba(255, 255, 255, .85); font-size: 11px; }
 .hero-note span { color: var(--muted); }

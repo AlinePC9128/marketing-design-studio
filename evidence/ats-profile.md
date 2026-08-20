@@ -1,4 +1,4 @@
-# Aline Peña Colunga — CV ATS
+# Aline Peña Colunga — Currículum profesional
 
 ## Diseñadora gráfica | Diseñadora de marca | UX/UI | WordPress Developer
 
@@ -8,7 +8,8 @@
 **LinkedIn:** https://www.linkedin.com/in/aline-pe%C3%B1a-162713195/  
 **GitHub:** https://github.com/AlinePC9128/marketing-design-studio
 
-**CV visual:** https://alinepc9128.github.io/marketing-design-studio/evidence/ats-profile.html
+**CV visual:** https://alinepc9128.github.io/marketing-design-studio/evidence/ats-profile.html  
+**CV en PDF:** https://alinepc9128.github.io/marketing-design-studio/evidence/cv-aline-pena-colunga.pdf
 
 ## Perfil profesional
 
@@ -116,7 +117,7 @@ Análisis de datos con Excel y Power BI; dashboards; Photoshop 2026 e IA generat
 
 Estas herramientas se incluyen como áreas de aprendizaje y fortalecimiento, no como experiencia comercial avanzada. Inglés intermedio para lectura y escritura técnica.
 
-## Palabras clave ATS
+## Competencias y palabras clave
 
 Diseñadora gráfica; diseño gráfico; diseño de marca; branding; identidad visual; identidad corporativa; logotipo; logos minimalistas; sistema de identidad; dirección de arte; diseño editorial; composición; tipografía; teoría del color; retícula; manual de marca; diseño de campañas; comunicación visual; diseño de contenido; social media; publicidad digital; diseño de email; infografía; diseño de empaque; papelería; edición de video; UX/UI; user experience; user interface; arquitectura de información; sitemap; user flow; customer journey; wireframe; prototipo; Figma; responsive design; mobile-first; accesibilidad; WordPress; WordPress Developer; Elementor; WPBakery; WooCommerce; PHP; HTML5; CSS3; JavaScript; jQuery; MySQL; Front-End; landing pages; SEO; GA4; Google Tag Manager; Search Console; Mailchimp; CRM; Zapier; webhooks; Meta Ads; Google Ads; TikTok Ads; Power BI; control de calidad; ISO 9001; trabajo remoto; Veracruz; México.
 
