@@ -168,6 +168,7 @@ h3 { font-size: 28px; }
 .professional-section > .identity-lab { order: 6 !important; }
 .professional-section > .professional-intro { order: 7 !important; }
 .professional-section > .production-approach { order: 8 !important; }
+.professional-section > .section-heading { margin-top: 72px; }
 .professional-section .section-heading h2 { max-width: 850px; }
 .portfolio-focus { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 44px; }
 .portfolio-focus article { min-height: 220px; padding: 22px; border-top: 5px solid var(--violet); background: var(--paper); }
@@ -402,6 +403,7 @@ main > #proof { order: 9; }
   .hero-art { max-width: 760px; }
   .manifesto, .section-heading, .application-feature, .method-layout, .ats-card, .professional-intro, .production-approach { grid-template-columns: 1fr; }
   .section-heading { gap: 16px; }
+  .professional-section > .section-heading { margin-top: 56px; }
   .application-copy { padding: 25px; }
   .method-poster { min-height: 360px; }
   .ats-facts { justify-content: start; text-align: left; }
@@ -418,6 +420,7 @@ main > #proof { order: 9; }
   .hero h1 { font-size: 56px; }
   .hero::before { inset: 25px -20px auto; }
   .manifesto { padding-top: 60px; }
+  .professional-section > .section-heading { margin-top: 44px; }
   .brand-principles, .case-grid, .asset-gallery, .generated-gallery, .reference-gallery, .identity-gallery, .rebrand-grid, .support-grid, .tool-matrix, .impact-grid, .portfolio-focus { grid-template-columns: 1fr; }
   .generated-featured { grid-column: auto; }
   .logo-line-card { grid-column: auto; }
