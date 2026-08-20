@@ -8,9 +8,11 @@
 **LinkedIn:** https://www.linkedin.com/in/aline-pe%C3%B1a-162713195/  
 **GitHub:** https://github.com/AlinePC9128/marketing-design-studio
 
+**CV visual:** https://alinepc9128.github.io/marketing-design-studio/evidence/ats-profile.html
+
 ## Perfil profesional
 
-Ingeniera en Sistemas Computacionales, diseñadora gráfica y desarrolladora web con cinco años de experiencia acumulada en WordPress, marketing digital y producción de contenidos. Combino pensamiento visual y capacidad técnica para crear identidades, logotipos, campañas, piezas digitales, experiencias UX/UI y sitios web listos para publicarse.
+Ingeniera en Sistemas Computacionales, diseñadora gráfica y desarrolladora web con experiencia acumulada en marketing digital, WordPress, UX/UI y producción de contenidos. Combino pensamiento visual y capacidad técnica para crear identidades, logotipos, campañas, piezas digitales, experiencias UX/UI y sitios web listos para publicarse.
 
 Tengo experiencia llevando un proyecto desde el brief y la investigación hasta el concepto, la composición, la adaptación multiformato, la implementación, la medición y la mejora. Mi fortaleza está en traducir objetivos de negocio e información técnica en comunicación visual clara, consistente y orientada a resultados.
 
@@ -30,6 +32,17 @@ Diseñadora gráfica; Diseñadora de marca; Diseñadora visual; Diseñadora digi
 - Adaptación de piezas para redes sociales, email, web, impresión y distintos tamaños de pantalla.
 - Edición y retoque de imágenes, edición de video, selección de recursos visuales y preparación de archivos.
 - Uso de IA generativa como apoyo para investigar, idear, explorar imágenes y crear variaciones; la dirección de arte, la revisión y la entrega final son humanas.
+
+## Marketing digital, contenido, CRM y analítica
+
+- Planeación de campañas, objetivos, audiencias, mensajes, calendarios editoriales y materiales de venta.
+- Facebook, Instagram, TikTok, LinkedIn, YouTube, Google Business Profile y WhatsApp Business.
+- Meta Ads, Google Search, Google Display y TikTok Ads; segmentación, remarketing, pruebas A/B y optimización.
+- Estrategia de contenidos, copywriting, guiones, reels, historias, carruseles, artículos, infografías y email marketing.
+- Generación y seguimiento de leads, embudos TOFU/MOFU/BOFU, clasificación, asignación, nurturing y apoyo comercial.
+- Perfex CRM, Salesforce, Mailchimp, Zapier, webhooks, Tidio, WhatsApp y flujos de formulario a CRM.
+- GA4, Google Tag Manager, Search Console, Power BI, Excel, dashboards, KPI de campañas y reportes de conversión.
+- Marketing de producto: traducción de fichas técnicas en beneficios, comparativas, catálogos, argumentos de venta y contenido educativo.
 
 ## UX/UI y diseño digital
 
@@ -56,6 +69,15 @@ Diseñadora gráfica; Diseñadora de marca; Diseñadora visual; Diseñadora digi
 - Participé en documentación, control de calidad y mejora de procesos relacionados con ISO 9001.
 - Trabajé con hosting, SSL, FTP, cPanel, optimización de imágenes, WP Rocket, WP-Optimize e identificación de problemas técnicos.
 
+### DBC Empresarial, S.A. de C.V. — Veracruz, México
+**Marketing Digital, Contenido, Desarrollo Web y Soporte CRM** · febrero 2021 – abril 2022
+
+- Planeé campañas para cursos, normativas y certificaciones ISO 9001 en Facebook, Instagram y Mailchimp.
+- Creé copies, correos, materiales visuales, presentaciones comerciales y contenidos para captación, posicionamiento y apoyo a ventas.
+- Analicé alcance, interacción, respuestas y oportunidades para ajustar mensajes, formatos y recorridos de conversión.
+- Brindé soporte a ISOADMIN y Salesforce/CRM mediante pruebas funcionales, documentación, configuración y capacitación a usuarios.
+- Participé en mantenimiento web y soporte de plataformas internas con HTML5, CSS3, PHP, FTP e Ionos.
+
 ## Proyectos destacados
 
 ### AUTOSISE — diseño web, comunicación de producto y showroom
@@ -72,19 +94,15 @@ Producción de piezas para control de acceso, alarmas, cerco eléctrico, videovi
 
 Implementación y documentación de un módulo de clientes para Perfex CRM, con duplicación de la lógica de leads, permisos, campos, actividad, integración de correo y recepción de datos mediante webhooks. Proyecto que conecta diseño de flujos, análisis funcional y desarrollo PHP/MySQL.
 
-### Coast Oil Dynamic — propuesta conceptual de identidad
-
-Propuesta conceptual para una empresa industrial: dirección visual, comunicación corporativa, piezas digitales, presentación, LinkedIn, email y aplicaciones HSE. Se presenta como ejercicio de portafolio y no como trabajo oficial de cliente.
-
 ### Marketing Design Studio — portafolio de diseño
 
-Sistema de portafolio creado desde cero para mostrar identidad, diseño gráfico, campañas, UX/UI, WordPress, marketing, analítica y producción multiformato. Incluye exploraciones conceptuales de logos minimalistas, seis rutas abstractas de símbolo y wordmark, y la documentación del rebranding real de AUTOSISE.
+Sistema de portafolio creado desde cero para mostrar identidad, diseño gráfico, campañas, UX/UI, WordPress, marketing, analítica y producción multiformato. Incluye evidencia profesional, documentación del rebranding real de AUTOSISE y casos de diseño orientados a selección laboral.
 
 ## Competencias técnicas comprobadas
 
-**Diseño:** Figma, Adobe Photoshop, Canva, Filmora, diseño de marca, diseño gráfico, dirección de arte, identidad visual, diseño editorial, infografías, campañas, contenido para redes, email, presentaciones, edición de imagen y video.  
-**Web:** WordPress, Elementor Pro, WPBakery, WooCommerce, HTML5, CSS3, JavaScript, jQuery, PHP, MySQL, responsive, mobile-first, FTP, cPanel, SSL y mantenimiento web.  
-**Marketing y analítica:** estrategia de contenidos, community management, SEO, GA4, Google Tag Manager, Search Console, Mailchimp, CRM, Zapier, webhooks, Meta Ads, Google Ads, TikTok Ads, Power BI y Excel.  
+**Diseño:** Figma, Adobe Photoshop, Canva, Filmora, diseño de marca, diseño gráfico, dirección de arte, identidad visual, diseño editorial, infografías, campañas, contenido para redes, email, presentaciones, edición de imagen y video, papelería, empaque y lineamientos de marca.  
+**Web:** WordPress, Elementor Pro, WPBakery, WooCommerce, HTML5, CSS3, JavaScript, jQuery, PHP, MySQL, responsive, mobile-first, FTP, cPanel, SSL, Contact Form 7 y mantenimiento web.  
+**Marketing y analítica:** estrategia de contenidos, community management, SEO, GA4, Google Tag Manager, Search Console, Mailchimp, CRM, Salesforce, Perfex CRM, Zapier, webhooks, Tidio, Meta Ads, Google Ads, TikTok Ads, Power BI y Excel.  
 **Calidad y operación:** documentación, control de calidad, mejora continua, organización de archivos, seguimiento de campañas, coordinación con áreas técnicas y comunicación de requerimientos.
 
 ## Formación académica
@@ -94,7 +112,7 @@ Instituto Tecnológico Superior de Alvarado · agosto 2016 – febrero 2021
 
 ## Herramientas en fortalecimiento profesional
 
-Gutenberg y Full Site Editing; desarrollo de bloques con JavaScript y React; REST API; WP-CLI; CI/CD; HubSpot; Marketo; Looker Studio; AEO/GEO; automatizaciones avanzadas; Adobe Illustrator; Adobe InDesign; After Effects; Jira; Confluence; Miro; Draw.io; Scrum y Kanban.
+Análisis de datos con Excel y Power BI; dashboards; Photoshop 2026 e IA generativa; Salesforce y Trailhead; Gutenberg y Full Site Editing; desarrollo de bloques con JavaScript y React; REST API; WP-CLI; CI/CD; HubSpot; Marketo; Looker Studio; AEO/GEO; automatizaciones avanzadas; Adobe Illustrator; Adobe InDesign; After Effects; Jira; Confluence; Miro; Draw.io; Scrum y Kanban.
 
 Estas herramientas se incluyen como áreas de aprendizaje y fortalecimiento, no como experiencia comercial avanzada. Inglés intermedio para lectura y escritura técnica.
 
@@ -104,4 +122,4 @@ Diseñadora gráfica; diseño gráfico; diseño de marca; branding; identidad vi
 
 ## Nota de presentación
 
-En entrevista, presentar primero los casos profesionales de Intersyst y AUTOSISE como experiencia real. Después mostrar los proyectos conceptuales y explicar qué parte demuestra cada uno: identidad, diseño gráfico, UX/UI, implementación web, marketing, analítica y capacidad de producción desde cero.
+En entrevista, presentar primero la evidencia profesional de Intersyst y el rebranding de AUTOSISE como experiencia real. Después explicar cómo se conectan diseño gráfico, UX/UI, implementación web, marketing, CRM, analítica y capacidad de producción desde cero.
