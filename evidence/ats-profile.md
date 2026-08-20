@@ -78,7 +78,7 @@ Propuesta conceptual para una empresa industrial: dirección visual, comunicaci�
 
 ### Marketing Design Studio — portafolio de diseño
 
-Sistema de portafolio creado desde cero para mostrar identidad, diseño gráfico, campañas, UX/UI, WordPress, marketing, analítica y producción multiformato. Incluye exploraciones conceptuales de logos minimalistas, seis ejercicios de logotipo lineal y la documentación del rebranding real de AUTOSISE.
+Sistema de portafolio creado desde cero para mostrar identidad, diseño gráfico, campañas, UX/UI, WordPress, marketing, analítica y producción multiformato. Incluye exploraciones conceptuales de logos minimalistas, seis rutas abstractas de símbolo y wordmark, y la documentación del rebranding real de AUTOSISE.
 
 ## Competencias técnicas comprobadas
 

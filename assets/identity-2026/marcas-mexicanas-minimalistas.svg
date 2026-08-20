@@ -1,34 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1000" role="img" aria-labelledby="title desc">
-  <title id="title">Exploraciones de logotipo lineal</title>
-  <desc id="desc">Lámina editorial con seis ejercicios conceptuales de símbolo, nombre y descriptor. No son marcas reales ni trabajos oficiales de clientes.</desc>
-  <rect width="1500" height="1000" fill="#f7f3ee"/>
-  <g stroke="#ddd6cf" stroke-width="2"><path d="M500 0v1000M1000 0v1000M0 500h1500"/></g>
-  <g fill="#2f2530" font-family="Georgia, serif" text-anchor="middle">
-    <g transform="translate(250 250)">
-      <path d="M-118 14 0-86 118 14 0-48Z" fill="none" stroke="#2f2530" stroke-width="3"/><path d="M-68 16v40M68 16v40M-58 68q58 10 116 0" fill="none" stroke="#2f2530" stroke-width="3" stroke-linecap="round"/>
-      <text y="120" font-size="36">Línea Norte</text><text y="154" font-family="Arial, sans-serif" font-size="13" letter-spacing="5">ESTUDIO VISUAL</text><circle cy="188" r="4" fill="#ef674d"/>
-    </g>
-    <g transform="translate(750 250)">
-      <path d="M-130-55q-38-66-82 0-9 15-3 35-8 68 70 72h90q78-4 70-72 6-20-3-35-44-66-82 0-30-42-60 0Z" fill="none" stroke="#2f2530" stroke-width="3" stroke-linecap="round"/><path d="M0-45v102M-34 0h68M-20-28q20-20 40 0" fill="none" stroke="#2f2530" stroke-width="3"/>
-      <text y="120" font-size="36">Círculo Sur</text><text y="154" font-family="Arial, sans-serif" font-size="13" letter-spacing="5">SISTEMA DE MARCA</text><circle cy="188" r="4" fill="#ef674d"/>
-    </g>
-    <g transform="translate(1250 250)">
-      <path d="M-37 58V-55q0-70 43-110M-37-12q-67 0-67-54 0-57 67-57M-37 20q72-55 117-4 39 44-16 72-47 23-100-7" fill="none" stroke="#2f2530" stroke-width="3" stroke-linecap="round"/>
-      <text y="120" font-size="36">Casa Lumen</text><text y="154" font-family="Arial, sans-serif" font-size="13" letter-spacing="5">IDENTIDAD COMERCIAL</text><circle cy="188" r="4" fill="#ef674d"/>
-    </g>
-    <g transform="translate(250 750)">
-      <path d="M0 75V-30M0-25q-70-95-98-17 7 56 66 32M0-12q70-95 98-17-7 56-66 32M0-12q-63 26-54 76 37 4 54-42M0-12q63 26 54 76-37 4-54-42" fill="none" stroke="#2f2530" stroke-width="3" stroke-linecap="round"/>
-      <text y="126" font-size="36">Nube Estudio</text><text y="160" font-family="Arial, sans-serif" font-size="13" letter-spacing="5">DIRECCIÓN CREATIVA</text><circle cy="194" r="4" fill="#ef674d"/>
-    </g>
-    <g transform="translate(750 750)">
-      <path d="M-45-18q-76-126 15-190 91 64 15 190Z" fill="none" stroke="#2f2530" stroke-width="3"/><path d="M0 12q-2 54 23 76M-4 29q-36-21-68-3M5 45q35-23 66-4" fill="none" stroke="#2f2530" stroke-width="3" stroke-linecap="round"/><path d="m30-93 6 12 12 6-12 6-6 12-6-12-12-6 12-6Z" fill="none" stroke="#2f2530" stroke-width="3"/>
-      <text y="126" font-size="36">Senda</text><text y="160" font-family="Arial, sans-serif" font-size="13" letter-spacing="5">PRODUCTO Y EXPERIENCIA</text><circle cy="194" r="4" fill="#ef674d"/>
-    </g>
-    <g transform="translate(1250 750)">
-      <path d="M-82 65q2-147 95-194 14 123-95 194ZM-82 65q87-3 127 5M-37-6l-61-35M-13 27l-66-38" fill="none" stroke="#2f2530" stroke-width="3" stroke-linecap="round"/>
-      <text y="126" font-size="36">Aurea</text><text y="160" font-family="Arial, sans-serif" font-size="13" letter-spacing="5">IDENTIDAD EDITORIAL</text><circle cy="194" r="4" fill="#ef674d"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Estudio de símbolos y wordmarks minimalistas</title>
+  <desc id="desc">Lámina editorial con seis ejercicios conceptuales de símbolo, nombre y sistema visual.</desc>
+  <rect width="1200" height="800" fill="#f6f1eb"/>
+  <rect x="42" y="42" width="1116" height="716" fill="none" stroke="#35202c" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#35202c">
+    <text x="70" y="84" font-size="13" font-weight="700" letter-spacing="4">ESTUDIO DE IDENTIDAD / 2026</text>
+    <text x="70" y="137" font-size="42" font-weight="700" letter-spacing="-1">Símbolo, nombre y sistema.</text>
+    <text x="70" y="167" font-size="14" fill="#756970">Seis rutas visuales construidas para probar reconocimiento, proporción y legibilidad.</text>
+    <text x="968" y="84" font-size="11" font-weight="700" letter-spacing="2">SÍMBOLO / WORDMARK</text>
   </g>
-  <g font-family="Arial, sans-serif" fill="#756b73"><text x="70" y="52" font-size="13" font-weight="700" letter-spacing="4">EXPLORACIONES DE LOGOTIPO · ESTUDIO VISUAL</text><text x="1430" y="52" font-size="13" text-anchor="end" letter-spacing="2">SÍMBOLO / NOMBRE / DESCRIPTOR</text></g>
-  <text x="70" y="960" font-family="Arial, sans-serif" font-size="12" fill="#756b73" letter-spacing="2">EJERCICIOS CONCEPTUALES · NO SON MARCAS REALES NI TRABAJOS OFICIALES DE CLIENTES</text>
+
+  <g transform="translate(70 214)">
+    <rect width="330" height="220" fill="#35202c"/>
+    <text x="24" y="30" fill="#b9c9b1" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">01 / RITMO</text>
+    <g transform="translate(54 62)" fill="none" stroke="#f6f1eb" stroke-width="10" stroke-linecap="round">
+      <path d="M0 78 C28 0 106 0 134 78"/>
+      <path d="M24 78 C46 25 88 25 110 78" stroke="#ef674d"/>
+    </g>
+    <text x="205" y="118" fill="#f6f1eb" font-family="Georgia, serif" font-size="31">ritmo</text>
+    <text x="205" y="143" fill="#b9c9b1" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">ESTUDIO DE OBJETOS</text>
+    <text x="24" y="196" fill="#d8cdd0" font-family="Arial, Helvetica, sans-serif" font-size="11">arco · pausa · repetición</text>
+  </g>
+
+  <g transform="translate(435 214)">
+    <rect width="330" height="220" fill="#d8e4ff"/>
+    <text x="24" y="30" fill="#35202c" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">02 / NÚCLEO</text>
+    <g transform="translate(50 62)" fill="none" stroke="#35202c" stroke-width="10" stroke-linecap="round">
+      <circle cx="64" cy="64" r="52"/>
+      <path d="M64 12v104M12 64h104" stroke="#ef674d" stroke-width="7"/>
+    </g>
+    <text x="192" y="118" fill="#35202c" font-family="Georgia, serif" font-size="31">núcleo</text>
+    <text x="192" y="143" fill="#756970" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">OBJETOS COTIDIANOS</text>
+    <text x="24" y="196" fill="#756970" font-family="Arial, Helvetica, sans-serif" font-size="11">centro · cruce · orientación</text>
+  </g>
+
+  <g transform="translate(800 214)">
+    <rect width="330" height="220" fill="#b9c9b1"/>
+    <text x="24" y="30" fill="#35202c" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">03 / LATIDO</text>
+    <g transform="translate(48 68)" fill="none" stroke="#35202c" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 60h28l18-40 25 80 18-40h42"/>
+      <circle cx="131" cy="60" r="8" fill="#ef674d" stroke="none"/>
+    </g>
+    <text x="193" y="118" fill="#35202c" font-family="Georgia, serif" font-size="31">latido</text>
+    <text x="193" y="143" fill="#756970" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">SALUD Y MOVIMIENTO</text>
+    <text x="24" y="196" fill="#756970" font-family="Arial, Helvetica, sans-serif" font-size="11">señal · energía · continuidad</text>
+  </g>
+
+  <g transform="translate(70 463)">
+    <rect width="330" height="220" fill="#ffffff" stroke="#ded4d0"/>
+    <text x="24" y="30" fill="#35202c" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">04 / PLIEGUE</text>
+    <g transform="translate(54 67)" fill="none" stroke="#35202c" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 20 52 72 104 20"/>
+      <path d="M26 20 52 46 78 20" stroke="#ef674d"/>
+    </g>
+    <text x="199" y="118" fill="#35202c" font-family="Georgia, serif" font-size="31">pliegue</text>
+    <text x="199" y="143" fill="#756970" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">TALLER EDITORIAL</text>
+    <text x="24" y="196" fill="#756970" font-family="Arial, Helvetica, sans-serif" font-size="11">doblez · contraste · ritmo</text>
+  </g>
+
+  <g transform="translate(435 463)">
+    <rect width="330" height="220" fill="#ef674d"/>
+    <text x="24" y="30" fill="#35202c" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">05 / UMBRAL</text>
+    <g transform="translate(52 60)" fill="none" stroke="#f6f1eb" stroke-width="10" stroke-linecap="round">
+      <path d="M0 104V35a52 52 0 0 1 104 0v69"/>
+      <path d="M35 104V39a17 17 0 0 1 34 0v65" stroke="#35202c"/>
+    </g>
+    <text x="195" y="118" fill="#f6f1eb" font-family="Georgia, serif" font-size="31">umbral</text>
+    <text x="195" y="143" fill="#35202c" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">ESPACIOS ABIERTOS</text>
+    <text x="24" y="196" fill="#f6ded7" font-family="Arial, Helvetica, sans-serif" font-size="11">entrada · pausa · encuentro</text>
+  </g>
+
+  <g transform="translate(800 463)">
+    <rect width="330" height="220" fill="#35202c"/>
+    <text x="24" y="30" fill="#b9c9b1" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">06 / TRAMA</text>
+    <g transform="translate(55 65)" fill="none" stroke="#f6f1eb" stroke-width="8" stroke-linecap="round">
+      <path d="M0 74 38 12l38 62 38-62 38 62"/>
+      <path d="M0 104 38 42l38 62 38-62 38 62" stroke="#ef674d"/>
+    </g>
+    <text x="205" y="118" fill="#f6f1eb" font-family="Georgia, serif" font-size="31">trama</text>
+    <text x="205" y="143" fill="#b9c9b1" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">COMUNIDAD Y RED</text>
+    <text x="24" y="196" fill="#d8cdd0" font-family="Arial, Helvetica, sans-serif" font-size="11">módulo · vínculo · repetición</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#756970">
+    <text x="70" y="725" font-size="11" font-weight="700" letter-spacing="2">EJERCICIOS CONCEPTUALES</text>
+    <text x="1130" y="725" text-anchor="end" font-size="11">NO SON MARCAS REALES NI TRABAJOS OFICIALES DE CLIENTES</text>
+  </g>
 </svg>

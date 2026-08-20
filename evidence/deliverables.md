@@ -18,7 +18,7 @@
 | Logo variable 2026 | `assets/identity-2026/logo-variable-2026.svg` | sistema flexible para avatar, encabezado, señal y patrón | Exploración conceptual; variantes para identidad viva |
 | Marca aplicada 2026 | `assets/identity-2026/brand-packaging-2026.svg` | empaque, etiquetas y papelería | Exploración conceptual de identidad aplicada |
 | Identidad dinámica 2026 | `assets/identity-2026/brand-motion-2026.svg` | frames, redes y storyboard de movimiento | Exploración conceptual de sistema visual adaptable |
-| Exploraciones de logotipo lineal | `assets/identity-2026/marcas-mexicanas-minimalistas.svg` | seis ejercicios conceptuales con ilustración lineal, serif y descriptor | No son marcas reales ni trabajos oficiales de clientes |
+| Estudio de símbolos y wordmarks | `assets/identity-2026/marcas-mexicanas-minimalistas.svg` | seis rutas conceptuales de símbolo, nombre, proporción y sistema | No son marcas reales ni trabajos oficiales de clientes |
 | Rebranding AUTOSISE — logo anterior | `assets/rebranding-autosise/autosise-logo-old.png` | símbolo anterior de tres picos | Referencia real proporcionada por Aline |
 | Rebranding AUTOSISE — logo actualizado | `assets/rebranding-autosise/autosise-logo-new.png` | versión horizontal actualizada | Referencia real proporcionada por Aline |
 | Rebranding AUTOSISE — sistema | `assets/rebranding-autosise/autosise-rebrand-concept.svg` | comparación antes/después y criterios de aplicación | Documentación visual del rebranding para el portafolio |
