@@ -8,7 +8,7 @@
 **LinkedIn:** https://www.linkedin.com/in/aline-pe%C3%B1a-162713195/  
 **GitHub:** https://github.com/AlinePC9128/marketing-design-studio
 
-**CV visual:** https://alinepc9128.github.io/marketing-design-studio/evidence/ats-profile.html  
+**CV visual:** https://alinepc9128.github.io/marketing-design-studio/  
 **CV en PDF:** https://alinepc9128.github.io/marketing-design-studio/evidence/cv-aline-pena-colunga.pdf
 
 ## Perfil profesional
