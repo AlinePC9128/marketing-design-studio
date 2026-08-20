@@ -19,8 +19,8 @@
 | Marca aplicada 2026 | `assets/identity-2026/brand-packaging-2026.svg` | empaque, etiquetas y papelería | Exploración conceptual de identidad aplicada |
 | Identidad dinámica 2026 | `assets/identity-2026/brand-motion-2026.svg` | frames, redes y storyboard de movimiento | Exploración conceptual de sistema visual adaptable |
 | Estudio de símbolos y wordmarks | `assets/identity-2026/marcas-mexicanas-minimalistas.svg` | seis rutas conceptuales de símbolo, nombre, proporción y sistema | No son marcas reales ni trabajos oficiales de clientes |
-| Rebranding AUTOSISE — logo anterior | `assets/rebranding-autosise/autosise-logo-old.png` | símbolo anterior de tres picos | Referencia real proporcionada por Aline |
-| Rebranding AUTOSISE — logo actualizado | `assets/rebranding-autosise/autosise-logo-new.png` | versión horizontal actualizada | Referencia real proporcionada por Aline |
+| Rebranding AUTOSISE — logo anterior | `assets/rebranding-autosise/autosise-logo-old-transparent.png` | símbolo anterior de tres picos, sin fondo | Referencia real proporcionada por Aline; PNG transparente para presentación |
+| Rebranding AUTOSISE — logo actualizado | `assets/rebranding-autosise/autosise-logo-new-transparent.png` | versión horizontal actualizada, sin fondo | Referencia real proporcionada por Aline; PNG transparente para presentación |
 | Rebranding AUTOSISE — sistema | `assets/rebranding-autosise/autosise-rebrand-concept.svg` | comparación antes/después y criterios de aplicación | Documentación visual del rebranding para el portafolio |
 | Intersyst — control de acceso | `assets/professional/intersyst-access-control.webp` | campaña de seguridad y protección | Referencia profesional proporcionada por Aline |
 | Intersyst — cerco eléctrico | `assets/professional/intersyst-electric-fence.webp` | infografía de beneficios | Referencia profesional; validar datos antes de republicar |
