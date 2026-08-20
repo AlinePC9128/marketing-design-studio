@@ -160,14 +160,14 @@ h3 { font-size: 28px; }
 .text-button { padding: 0; border: 0; color: var(--violet); background: transparent; font: 11px Arial, sans-serif; cursor: pointer; white-space: nowrap; }
 
 .professional-section { display: flex; flex-direction: column; padding-top: 135px; }
-.professional-section > .rebrand-case { order: 1; }
-.professional-section > .evidence-section-heading { order: 2; }
-.professional-section > .evidence-section-gallery { order: 3; }
-.professional-section > .section-heading { order: 4; }
-.professional-section > .portfolio-focus { order: 5; }
-.professional-section > .identity-lab { order: 6; }
-.professional-section > .professional-intro { order: 7; }
-.professional-section > .production-approach { order: 8; }
+.professional-section > .rebrand-case { order: 1 !important; }
+.professional-section > .evidence-section-heading { order: 2 !important; }
+.professional-section > .evidence-section-gallery { order: 3 !important; }
+.professional-section > .section-heading { order: 4 !important; }
+.professional-section > .portfolio-focus { order: 5 !important; }
+.professional-section > .identity-lab { order: 6 !important; }
+.professional-section > .professional-intro { order: 7 !important; }
+.professional-section > .production-approach { order: 8 !important; }
 .professional-section .section-heading h2 { max-width: 850px; }
 .portfolio-focus { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 44px; }
 .portfolio-focus article { min-height: 220px; padding: 22px; border-top: 5px solid var(--violet); background: var(--paper); }
@@ -374,10 +374,11 @@ body[data-theme="dark"] .rebrand-case { background: var(--paper); }
 body[data-theme="dark"] .rebrand-card .current-logo-social { background: #f7f7f7; }
 
 main { display: flex; flex-direction: column; }
-main > .hero { order: 1; }
-main > #gallery { order: 2; }
-main > .professional-section { order: 3; }
-main > #cases { order: 4; }
+/* Recorrido principal del portafolio: galería primero, luego rebranding y evidencia. */
+main > .hero { order: 1 !important; }
+main > #gallery { order: 2 !important; }
+main > .professional-section { order: 3 !important; }
+main > #cases { order: 4 !important; }
 main > #brand { order: 6; }
 main > .brand-principles { order: 7; }
 main > #method { order: 8; }
