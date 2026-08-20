@@ -88,7 +88,7 @@ a { color: inherit; }
 .eyebrow span { display: inline-block; width: 25px; height: 3px; background: var(--coral); }
 h1, h2, h3, p { margin-top: 0; }
 h1, h2, h3 { letter-spacing: -.065em; line-height: 1.02; }
-h1 { max-width: 700px; margin-bottom: 24px; font-size: clamp(58px, 8vw, 116px); font-weight: 800; }
+h1 { max-width: 700px; margin-bottom: 24px; font-size: clamp(50px, 6vw, 88px); font-weight: 800; }
 h1 em { color: var(--coral); font-style: normal; }
 h2 { font-size: clamp(39px, 5.3vw, 76px); }
 h3 { font-size: 28px; }
@@ -419,7 +419,7 @@ main > #proof { order: 9; }
   .main-nav { gap: 14px; }
   .header-actions { justify-content: flex-end; }
   .hero { padding: 52px 0; }
-  .hero h1 { font-size: 56px; }
+  .hero h1 { font-size: 48px; }
   .hero::before { inset: 25px -20px auto; }
   .manifesto { padding-top: 60px; }
   .professional-section > .section-heading { margin-top: 44px; }
