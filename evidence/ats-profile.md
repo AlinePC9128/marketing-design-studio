@@ -13,7 +13,7 @@
 
 ## Perfil profesional
 
-Ingeniera en Sistemas Computacionales, diseñadora gráfica y desarrolladora web con experiencia acumulada en marketing digital, WordPress, UX/UI y producción de contenidos. Combino pensamiento visual y capacidad técnica para crear identidades, logotipos, campañas, piezas digitales, experiencias UX/UI y sitios web listos para publicarse.
+Ingeniera en Sistemas Computacionales, diseñadora gráfica y desarrolladora web con experiencia acumulada en marketing digital, comunicación visual B2B, WordPress, UX/UI y producción de contenidos. Combino pensamiento visual y capacidad técnica para crear identidades, logotipos, campañas, infografías técnicas, presentaciones corporativas, materiales HSE, piezas digitales, experiencias UX/UI y sitios web listos para publicarse.
 
 Tengo experiencia llevando un proyecto desde el brief y la investigación hasta el concepto, la composición, la adaptación multiformato, la implementación, la medición y la mejora. Mi fortaleza está en traducir objetivos de negocio e información técnica en comunicación visual clara, consistente y orientada a resultados.
 
@@ -27,8 +27,8 @@ Diseñadora gráfica; Diseñadora de marca; Diseñadora visual; Diseñadora digi
 - Diseño de logotipos minimalistas, monogramas, símbolos, versiones de una tinta y sistemas de logo.
 - Paleta cromática, tipografía, retícula, jerarquía visual, composición y área de seguridad.
 - Manuales de marca, lineamientos de uso, plantillas y sistemas visuales escalables.
-- Diseño de campañas, publicaciones, carruseles, historias, anuncios, banners e infografías.
-- Diseño editorial para presentaciones, documentos, reportes, firmas de correo y materiales internos.
+- Diseño de campañas, publicaciones, carruseles, historias, anuncios, banners e infografías técnicas.
+- Diseño editorial para presentaciones corporativas, documentos, reportes, firmas de correo y materiales internos.
 - Diseño de empaques, etiquetas, papelería, señalización y aplicaciones de identidad.
 - Adaptación de piezas para redes sociales, email, web, impresión y distintos tamaños de pantalla.
 - Edición y retoque de imágenes, edición de video, selección de recursos visuales y preparación de archivos.
@@ -59,7 +59,7 @@ Diseñadora gráfica; Diseñadora de marca; Diseñadora visual; Diseñadora digi
 **Jefa de Marketing, Diseñadora Gráfica y Programadora Web (WordPress)** · abril 2023 – mayo 2026
 
 - Desarrollé y mantuve la identidad visual de campañas de seguridad, alarmas, videovigilancia, control de acceso, automatización y protección perimetral.
-- Diseñé publicaciones, carruseles, infografías, anuncios, materiales educativos, piezas de producto, presentaciones, firmas de correo y contenidos para campañas.
+- Diseñé publicaciones, carruseles, infografías técnicas, anuncios, materiales educativos, piezas de producto, presentaciones corporativas, materiales HSE, firmas de correo y contenidos para campañas.
 - Construí y administré tres sitios web y cuatro landing pages desde cero, incluyendo estructura, diseño responsive, contenido, formularios, SEO básico, publicación y mantenimiento.
 - Trabajé con WordPress, Elementor Pro, WPBakery, HTML5, CSS3, JavaScript, jQuery, PHP y MySQL para implementar y personalizar soluciones web.
 - Administré un catálogo WooCommerce con más de 200 productos y apoyé la organización de categorías, fichas, imágenes y contenido comercial.
@@ -101,7 +101,7 @@ Sistema de portafolio creado desde cero para mostrar identidad, diseño gráfico
 
 ## Competencias técnicas comprobadas
 
-**Diseño:** Figma, Adobe Photoshop, Canva, Filmora, diseño de marca, diseño gráfico, dirección de arte, identidad visual, diseño editorial, infografías, campañas, contenido para redes, email, presentaciones, edición de imagen y video, papelería, empaque y lineamientos de marca.  
+**Diseño:** Figma, Adobe Photoshop, Canva, Filmora, diseño de marca, diseño gráfico, dirección de arte, comunicación visual B2B, identidad visual, diseño editorial, infografías técnicas, campañas, contenido para redes, email, presentaciones corporativas, materiales HSE, edición de imagen y video, papelería, empaque y lineamientos de marca.  
 **Web:** WordPress, Elementor Pro, WPBakery, WooCommerce, HTML5, CSS3, JavaScript, jQuery, PHP, MySQL, responsive, mobile-first, FTP, cPanel, SSL, Contact Form 7 y mantenimiento web.  
 **Marketing y analítica:** estrategia de contenidos, community management, SEO, GA4, Google Tag Manager, Search Console, Mailchimp, CRM, Salesforce, Perfex CRM, Zapier, webhooks, Tidio, Meta Ads, Google Ads, TikTok Ads, Power BI y Excel.  
 **Calidad y operación:** documentación, control de calidad, mejora continua, organización de archivos, seguimiento de campañas, coordinación con áreas técnicas y comunicación de requerimientos.
