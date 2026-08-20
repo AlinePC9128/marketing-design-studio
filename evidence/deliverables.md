@@ -18,7 +18,9 @@
 | Logo variable 2026 | `assets/identity-2026/logo-variable-2026.webp` | sistema flexible y aplicaciones | Exploración conceptual; variantes para identidad viva |
 | Marca aplicada 2026 | `assets/identity-2026/brand-packaging-2026.webp` | empaque, etiquetas y papelería | Exploración conceptual de identidad aplicada |
 | Identidad dinámica 2026 | `assets/identity-2026/brand-motion-2026.webp` | poster, digital y movimiento | Exploración conceptual de sistema visual adaptable |
-| Marcas mexicanas minimalistas | `assets/identity-2026/marcas-mexicanas-minimalistas.svg` | seis logos conceptuales con ilustración lineal, serif y descriptor | Exploración ficticia; no representa clientes reales |
+| Exploraciones de logotipo lineal | `assets/identity-2026/marcas-mexicanas-minimalistas.svg` | seis ejercicios conceptuales con ilustración lineal, serif y descriptor | No son marcas reales ni trabajos oficiales de clientes |
+| Rebranding AUTOSISE — referencias | `assets/rebranding-autosise/autosise-logo-web.png` y `assets/rebranding-autosise/autosise-logo-linkedin.jpeg` | versiones públicas actuales para sitio web y LinkedIn | Referencias reales proporcionadas por Aline |
+| Rebranding AUTOSISE — propuesta | `assets/rebranding-autosise/autosise-rebrand-concept.svg` | símbolo, wordmark, color y aplicaciones | Propuesta conceptual; no reemplaza el logo oficial |
 | Intersyst — control de acceso | `assets/professional/intersyst-access-control.webp` | campaña de seguridad y protección | Referencia profesional proporcionada por Aline |
 | Intersyst — cerco eléctrico | `assets/professional/intersyst-electric-fence.webp` | infografía de beneficios | Referencia profesional; validar datos antes de republicar |
 | Intersyst — acceso y videovigilancia | `assets/professional/intersyst-access-control-green.webp` | comunicación de producto | Referencia profesional proporcionada por Aline |

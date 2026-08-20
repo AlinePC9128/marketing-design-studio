@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 860" role="img" aria-labelledby="title desc">
+  <title id="title">Propuesta conceptual de rebranding para AUTOSISE</title>
+  <desc id="desc">Lámina editorial con una nueva ruta visual minimalista para AUTOSISE, basada en un monograma geométrico, azul profundo, rojo de señal y aplicaciones digitales.</desc>
+  <rect width="1400" height="860" fill="#f4f0ea"/>
+  <rect x="0" y="0" width="1400" height="18" fill="#e33e3e"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#0b2442">
+    <text x="76" y="76" font-size="16" font-weight="700" letter-spacing="4">AUTOSISE / RUTA CONCEPTUAL 2026</text>
+    <text x="76" y="148" font-size="62" font-weight="700" letter-spacing="-2">Una identidad más clara.</text>
+    <text x="76" y="208" font-size="62" font-weight="700" letter-spacing="-2">Un sistema más flexible.</text>
+    <text x="78" y="262" font-size="18" fill="#536477">Propuesta de rebranding para automatización, seguridad y control.</text>
+  </g>
+  <g transform="translate(88 344)">
+    <rect width="460" height="340" rx="4" fill="#0b2442"/>
+    <g transform="translate(54 56)" fill="none" stroke="#f4f0ea" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M0 182 82 24l82 158"/>
+      <path d="M38 182 82 98l44 84"/>
+      <path d="M120 182 162 98l44 84"/>
+    </g>
+    <text x="54" y="282" fill="#f4f0ea" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="2">AUTOSISE</text>
+    <text x="57" y="313" fill="#ef6a5d" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">AUTOMATIZACIÓN · SEGURIDAD · CONTROL</text>
+  </g>
+  <g transform="translate(608 344)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="25" fill="#e33e3e" font-size="13" font-weight="700" letter-spacing="3">DECISIONES DE DISEÑO</text>
+    <text x="0" y="74" fill="#0b2442" font-size="27" font-weight="700">01 / Símbolo modular</text>
+    <text x="0" y="107" fill="#536477" font-size="17">Una A construida con tres trazos para</text>
+    <text x="0" y="132" fill="#536477" font-size="17">reconocer la marca en favicon, app y web.</text>
+    <text x="0" y="192" fill="#0b2442" font-size="27" font-weight="700">02 / Contraste funcional</text>
+    <text x="0" y="225" fill="#536477" font-size="17">Azul profundo para confianza y rojo</text>
+    <text x="0" y="250" fill="#536477" font-size="17">para señal, acción y tecnología.</text>
+    <text x="0" y="310" fill="#0b2442" font-size="27" font-weight="700">03 / Aplicación responsive</text>
+    <text x="0" y="343" fill="#536477" font-size="17">La marca funciona en encabezados,</text>
+    <text x="0" y="368" fill="#536477" font-size="17">tarjetas de producto y redes sociales.</text>
+    <g transform="translate(0 412)">
+      <rect width="58" height="58" fill="#0b2442"/><rect x="74" width="58" height="58" fill="#e33e3e"/><rect x="148" width="58" height="58" fill="#2e78b7"/><rect x="222" width="58" height="58" fill="#f4f0ea" stroke="#d6d0c8"/>
+      <text x="0" y="83" font-size="12" fill="#536477">#0B2442</text><text x="74" y="83" font-size="12" fill="#536477">#E33E3E</text><text x="148" y="83" font-size="12" fill="#536477">#2E78B7</text><text x="222" y="83" font-size="12" fill="#536477">#F4F0EA</text>
+    </g>
+  </g>
+  <line x1="76" y1="802" x2="1324" y2="802" stroke="#d6d0c8"/>
+  <text x="76" y="832" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#536477" letter-spacing="1">PROPUESTA CONCEPTUAL · NO REEMPLAZA EL LOGO OFICIAL DE AUTOSISE</text>
+</svg>

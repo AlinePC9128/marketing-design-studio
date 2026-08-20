@@ -170,6 +170,18 @@ h3 { font-size: 28px; }
 .portfolio-focus article:nth-child(2) span { color: var(--coral); }
 .portfolio-focus h3 { margin: 51px 0 11px; font-size: 25px; }
 .portfolio-focus p { margin: 0; color: var(--muted); font-size: 12px; }
+.rebrand-case { margin: 0 0 72px; padding: 28px; border: 1px solid var(--line); background: var(--paper); }
+.rebrand-case .reference-heading { margin-bottom: 24px; }
+.rebrand-case .reference-heading h3 { max-width: 650px; }
+.rebrand-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.rebrand-card .evidence-image { min-height: 250px; display: grid; place-items: center; padding: 20px; background: #141414; }
+.rebrand-card .evidence-image img { width: 100%; height: 100%; max-height: 250px; object-fit: contain; }
+.rebrand-card .current-logo-social { background: #f7f7f7; }
+.rebrand-card .current-logo-social img { max-width: 200px; }
+.rebrand-card .current-logo-web img { max-width: 354px; }
+.rebrand-card > span { color: var(--coral); }
+.rebrand-card > strong { font-size: 20px; }
+.rebrand-card > small { min-height: 48px; }
 .identity-lab { margin-bottom: 72px; }
 .identity-lab .reference-heading { margin-bottom: 23px; }
 .identity-gallery { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
@@ -179,10 +191,10 @@ h3 { font-size: 28px; }
 .new-logo-card > span { color: var(--violet); }
 .new-logo-card > strong { font-size: 19px; }
 .new-logo-card > small { min-height: 48px; }
-.mexican-logo-card { grid-column: span 2; }
-.mexican-logo-card .evidence-image { min-height: 340px; background: #f5f1ec; }
-.mexican-logo-card .evidence-image img { aspect-ratio: 3 / 2; object-fit: contain; }
-.mexican-logo-card > span { color: var(--coral); }
+.logo-line-card { grid-column: span 2; }
+.logo-line-card .evidence-image { min-height: 340px; background: #f5f1ec; }
+.logo-line-card .evidence-image img { aspect-ratio: 3 / 2; object-fit: contain; }
+.logo-line-card > span { color: var(--coral); }
 .professional-intro { display: grid; grid-template-columns: repeat(2, 1fr); gap: 11px; margin-bottom: 11px; }
 .company-card { display: grid; grid-template-columns: 56px 1fr; gap: 20px; min-height: 255px; padding: 25px; border-top: 6px solid var(--ink); background: var(--paper); }
 .company-intersyst { border-color: var(--violet); }
@@ -358,6 +370,8 @@ body[data-theme="dark"] .principle-coral { color: #fff; background: #a83d2a; }
 body[data-theme="dark"] .principle-teal { color: #241c25; background: var(--teal); }
 body[data-theme="dark"] .principle-yellow { color: #241c25; background: var(--yellow); }
 body[data-theme="dark"] .new-logo-card .evidence-image { background: var(--paper); }
+body[data-theme="dark"] .rebrand-case { background: var(--paper); }
+body[data-theme="dark"] .rebrand-card .current-logo-social { background: #f7f7f7; }
 
 main { display: flex; flex-direction: column; }
 main > .hero { order: 1; }
@@ -377,7 +391,7 @@ main > #contact { order: 12; }
   .main-nav { gap: 12px; }
   .hero { gap: 35px; }
   .brand-principles { grid-template-columns: repeat(2, 1fr); }
-  .asset-gallery, .generated-gallery, .reference-gallery, .identity-gallery { grid-template-columns: repeat(2, 1fr); }
+  .asset-gallery, .generated-gallery, .reference-gallery, .identity-gallery, .rebrand-grid { grid-template-columns: repeat(2, 1fr); }
   .portfolio-focus { grid-template-columns: repeat(2, 1fr); }
   .generated-featured { grid-column: span 2; }
   .support-grid { grid-template-columns: repeat(2, 1fr); }
@@ -407,9 +421,9 @@ main > #contact { order: 12; }
   .hero h1 { font-size: 56px; }
   .hero::before { inset: 25px -20px auto; }
   .manifesto { padding-top: 60px; }
-  .brand-principles, .case-grid, .asset-gallery, .generated-gallery, .reference-gallery, .identity-gallery, .support-grid, .tool-matrix, .impact-grid, .portfolio-focus { grid-template-columns: 1fr; }
+  .brand-principles, .case-grid, .asset-gallery, .generated-gallery, .reference-gallery, .identity-gallery, .rebrand-grid, .support-grid, .tool-matrix, .impact-grid, .portfolio-focus { grid-template-columns: 1fr; }
   .generated-featured { grid-column: auto; }
-  .mexican-logo-card { grid-column: auto; }
+  .logo-line-card { grid-column: auto; }
   .principle-card { min-height: 175px; }
   .principle-card span { margin-bottom: 35px; }
   .project-featured { grid-row: auto; }

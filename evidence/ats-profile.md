@@ -62,6 +62,8 @@ Diseñadora gráfica; Diseñadora de marca; Diseñadora visual; Diseñadora digi
 
 Proyecto profesional de comunicación para cámaras, iluminación, automatización, control de acceso y soluciones inteligentes. Incluye arquitectura de contenidos, diseño de páginas, catálogo WooCommerce, páginas de producto, aplicaciones visuales y mensajes dirigidos a sectores residencial, comercial, académico, industrial, portuario y gobierno.
 
+El portafolio incluye además un ejercicio separado de rebranding: referencias públicas reales de AUTOSISE en sitio web y LinkedIn, seguidas de una propuesta conceptual de símbolo, wordmark, paleta y aplicaciones. La propuesta no se presenta como un cambio oficial aprobado por la empresa.
+
 ### Intersyst — sistema visual y campañas de seguridad
 
 Producción de piezas para control de acceso, alarmas, cerco eléctrico, videovigilancia, continuidad de comunicación, actualización de tecnología y soporte 24/7. El trabajo demuestra adaptación de una identidad a campañas comerciales, educativas, preventivas y de producto.
@@ -76,7 +78,7 @@ Propuesta conceptual para una empresa industrial: dirección visual, comunicaci�
 
 ### Marketing Design Studio — portafolio de diseño
 
-Sistema de portafolio creado desde cero para mostrar identidad, diseño gráfico, campañas, UX/UI, WordPress, marketing, analítica y producción multiformato. Incluye exploraciones conceptuales de logos minimalistas y seis marcas mexicanas ficticias con ilustración lineal.
+Sistema de portafolio creado desde cero para mostrar identidad, diseño gráfico, campañas, UX/UI, WordPress, marketing, analítica y producción multiformato. Incluye exploraciones conceptuales de logos minimalistas, seis ejercicios de logotipo lineal y una propuesta conceptual de rebranding para AUTOSISE.
 
 ## Competencias técnicas comprobadas
 

@@ -12,7 +12,7 @@ El modo oscuro abandona el negro puro y usa un ciruela casi negro. Esta decisió
 
 La sección profesional incorpora piezas de Intersyst y AUTOSISE porque permiten mostrar producción aplicada: mensajes de seguridad, campañas educativas, comunicación de producto, infografías y adaptaciones para canales reales. El relato de “desde cero” se sostiene en el proceso: contexto, objetivo, dirección visual, composición, adaptaciones y control de calidad. La IA se presenta como apoyo para investigar, idear, editar o explorar variaciones, no como sustituto del criterio de diseño.
 
-La lámina de marcas mexicanas conceptuales lleva esta lógica a un lenguaje boutique: ilustración lineal de trazo fino, nombre con serif o gesto manuscrito y descriptor funcional. Son rutas originales para practicar símbolo, tipografía y composición; no se copian marcas existentes ni se presentan como trabajo de clientes.
+La lámina de ejercicios de logotipo lleva esta lógica a un lenguaje editorial: ilustración lineal de trazo fino, nombre con serif o gesto manuscrito y descriptor funcional. Son rutas originales para practicar símbolo, tipografía y composición; no se copian marcas existentes ni se presentan como trabajo de clientes. El rebranding de AUTOSISE se presenta por separado: primero muestra referencias públicas reales y después una propuesta conceptual claramente etiquetada.
 
 ## Paleta
 

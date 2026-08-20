@@ -18,7 +18,8 @@ Este documento explica cómo se tradujeron tendencias actuales en decisiones con
 3. El modo claro usa `#F3EFE9`, `#351E28`, `#D7EFFF`, `#AEB8A0`, `#FF5C34` y `#E9F056`.
 4. El modo oscuro usa `#1C1520` y `#100B15` como base, con acentos claros para conservar contraste.
 5. Las texturas aparecen de forma contenida en las láminas conceptuales; la interfaz conserva superficies limpias para facilitar lectura y navegación.
-6. La exploración mexicana añade una ruta boutique de ilustración lineal y wordmark editorial: un sistema reducido, reconocible y fácil de adaptar a etiquetas, papelería y redes.
+6. Los ejercicios de logotipo lineal añaden una ruta editorial de ilustración fina y wordmark: un sistema reducido, reconocible y fácil de adaptar a distintos formatos.
+7. El caso AUTOSISE demuestra cómo comparar una identidad real en diferentes puntos de contacto y convertir las diferencias en una propuesta conceptual de sistema.
 
 ## Referencias consultadas
 
