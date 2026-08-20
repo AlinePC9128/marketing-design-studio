@@ -1,40 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 860" role="img" aria-labelledby="title desc">
-  <title id="title">Propuesta conceptual de rebranding para AUTOSISE</title>
-  <desc id="desc">Lámina editorial con una nueva ruta visual minimalista para AUTOSISE, basada en un monograma geométrico, azul profundo, rojo de señal y aplicaciones digitales.</desc>
-  <rect width="1400" height="860" fill="#f4f0ea"/>
-  <rect x="0" y="0" width="1400" height="18" fill="#e33e3e"/>
-  <g font-family="Arial, Helvetica, sans-serif" fill="#0b2442">
-    <text x="76" y="76" font-size="16" font-weight="700" letter-spacing="4">AUTOSISE / RUTA CONCEPTUAL 2026</text>
-    <text x="76" y="148" font-size="62" font-weight="700" letter-spacing="-2">Una identidad más clara.</text>
-    <text x="76" y="208" font-size="62" font-weight="700" letter-spacing="-2">Un sistema más flexible.</text>
-    <text x="78" y="262" font-size="18" fill="#536477">Propuesta de rebranding para automatización, seguridad y control.</text>
+  <title id="title">Evolución de identidad visual de AUTOSISE</title>
+  <desc id="desc">Lámina minimalista que explica el paso del logotipo anterior de tres picos al logotipo horizontal actualizado de AUTOSISE y sus reglas de aplicación.</desc>
+  <rect width="1400" height="860" fill="#f6f3ef"/>
+  <rect width="1400" height="16" fill="#e52f3e"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#09285c">
+    <text x="76" y="72" font-size="15" font-weight="700" letter-spacing="4">AUTOSISE / EVOLUCIÓN DE IDENTIDAD</text>
+    <text x="76" y="142" font-size="58" font-weight="700" letter-spacing="-2">Del símbolo al sistema.</text>
+    <text x="78" y="192" font-size="18" fill="#607087">Una actualización visual para leer mejor la marca en digital, producto y showroom.</text>
   </g>
-  <g transform="translate(88 344)">
-    <rect width="460" height="340" rx="4" fill="#0b2442"/>
-    <g transform="translate(54 56)" fill="none" stroke="#f4f0ea" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter">
-      <path d="M0 182 82 24l82 158"/>
-      <path d="M38 182 82 98l44 84"/>
-      <path d="M120 182 162 98l44 84"/>
+  <g transform="translate(78 274)">
+    <rect width="490" height="280" fill="#ffffff" stroke="#d8d3cd"/>
+    <text x="32" y="42" font-family="Arial, Helvetica, sans-serif" fill="#e52f3e" font-size="13" font-weight="700" letter-spacing="3">01 / ANTES</text>
+    <g transform="translate(168 90)">
+      <path d="M-104 85 0-82 104 85Z" fill="#07357e"/>
+      <path d="M-104 85-58-5 0 85Z" fill="#e52f3e"/>
+      <path d="M0 85 48-5 104 85Z" fill="#07357e"/>
     </g>
-    <text x="54" y="282" fill="#f4f0ea" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="2">AUTOSISE</text>
-    <text x="57" y="313" fill="#ef6a5d" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">AUTOMATIZACIÓN · SEGURIDAD · CONTROL</text>
+    <text x="32" y="240" font-family="Arial, Helvetica, sans-serif" fill="#09285c" font-size="21" font-weight="700">Símbolo de tres picos</text>
+    <text x="32" y="264" font-family="Arial, Helvetica, sans-serif" fill="#607087" font-size="15">Punto de partida de la identidad.</text>
   </g>
-  <g transform="translate(608 344)" font-family="Arial, Helvetica, sans-serif">
-    <text x="0" y="25" fill="#e33e3e" font-size="13" font-weight="700" letter-spacing="3">DECISIONES DE DISEÑO</text>
-    <text x="0" y="74" fill="#0b2442" font-size="27" font-weight="700">01 / Símbolo modular</text>
-    <text x="0" y="107" fill="#536477" font-size="17">Una A construida con tres trazos para</text>
-    <text x="0" y="132" fill="#536477" font-size="17">reconocer la marca en favicon, app y web.</text>
-    <text x="0" y="192" fill="#0b2442" font-size="27" font-weight="700">02 / Contraste funcional</text>
-    <text x="0" y="225" fill="#536477" font-size="17">Azul profundo para confianza y rojo</text>
-    <text x="0" y="250" fill="#536477" font-size="17">para señal, acción y tecnología.</text>
-    <text x="0" y="310" fill="#0b2442" font-size="27" font-weight="700">03 / Aplicación responsive</text>
-    <text x="0" y="343" fill="#536477" font-size="17">La marca funciona en encabezados,</text>
-    <text x="0" y="368" fill="#536477" font-size="17">tarjetas de producto y redes sociales.</text>
-    <g transform="translate(0 412)">
-      <rect width="58" height="58" fill="#0b2442"/><rect x="74" width="58" height="58" fill="#e33e3e"/><rect x="148" width="58" height="58" fill="#2e78b7"/><rect x="222" width="58" height="58" fill="#f4f0ea" stroke="#d6d0c8"/>
-      <text x="0" y="83" font-size="12" fill="#536477">#0B2442</text><text x="74" y="83" font-size="12" fill="#536477">#E33E3E</text><text x="148" y="83" font-size="12" fill="#536477">#2E78B7</text><text x="222" y="83" font-size="12" fill="#536477">#F4F0EA</text>
+  <g transform="translate(594 274)">
+    <rect width="728" height="280" fill="#09285c"/>
+    <text x="34" y="42" font-family="Arial, Helvetica, sans-serif" fill="#ff6a5a" font-size="13" font-weight="700" letter-spacing="3">02 / DESPUÉS</text>
+    <g transform="translate(34 84)">
+      <path d="M0 92 42 0l42 92" fill="none" stroke="#e52f3e" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M22 92 42 47l20 45" fill="none" stroke="#e52f3e" stroke-width="11" stroke-linecap="round"/>
+      <text x="112" y="73" font-family="Arial, Helvetica, sans-serif" fill="#ffffff" font-size="52" font-weight="700" letter-spacing="-2">AUTOSISE</text>
+      <text x="114" y="101" font-family="Arial, Helvetica, sans-serif" fill="#ff6a5a" font-size="12" font-weight="700" letter-spacing="2">AUTOMATIZACIÓN Y SISTEMAS DE SEGURIDAD</text>
     </g>
+    <text x="34" y="240" font-family="Arial, Helvetica, sans-serif" fill="#ffffff" font-size="21" font-weight="700">Logo horizontal actualizado</text>
+    <text x="34" y="264" font-family="Arial, Helvetica, sans-serif" fill="#c7d1df" font-size="15">Más directo para web, comunicación y producto.</text>
   </g>
-  <line x1="76" y1="802" x2="1324" y2="802" stroke="#d6d0c8"/>
-  <text x="76" y="832" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#536477" letter-spacing="1">PROPUESTA CONCEPTUAL · NO REEMPLAZA EL LOGO OFICIAL DE AUTOSISE</text>
+  <g transform="translate(78 625)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" fill="#e52f3e" font-size="13" font-weight="700" letter-spacing="3">03 / QUÉ CAMBIA</text>
+    <g transform="translate(0 28)"><circle cx="12" cy="12" r="5" fill="#e52f3e"/><text x="32" y="18" fill="#09285c" font-size="18" font-weight="700">Lectura horizontal</text><text x="32" y="43" fill="#607087" font-size="15">Nombre y descriptor se entienden en una sola línea.</text></g>
+    <g transform="translate(460 28)"><circle cx="12" cy="12" r="5" fill="#e52f3e"/><text x="32" y="18" fill="#09285c" font-size="18" font-weight="700">Escala digital</text><text x="32" y="43" fill="#607087" font-size="15">La marca se adapta a encabezados, tarjetas y redes.</text></g>
+    <g transform="translate(900 28)"><circle cx="12" cy="12" r="5" fill="#e52f3e"/><text x="32" y="18" fill="#09285c" font-size="18" font-weight="700">Sistema reconocible</text><text x="32" y="43" fill="#607087" font-size="15">El contraste rojo y azul conserva continuidad visual.</text></g>
+  </g>
+  <line x1="78" y1="755" x2="1322" y2="755" stroke="#d8d3cd"/>
+  <text x="78" y="796" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#607087" letter-spacing="1">CASO REAL DE ACTUALIZACIÓN DE IDENTIDAD · REFERENCIAS PROPORCIONADAS POR ALINE PEÑA</text>
 </svg>

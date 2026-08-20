@@ -21,7 +21,7 @@ La navegación está planteada como una presentación visual orientada a recluta
 - Manual de identidad con área de seguridad, versiones, usos y criterios de reproducción.
 - Casos profesionales de Intersyst y Autosise, además de propuestas propias y conceptuales claramente etiquetadas.
 - Carpeta de evidencia visual de campañas reales para [Intersyst Seguridad y Control](https://intersyst.com.mx/) y [AUTOSISE](https://autosise.com.mx/).
-- Exploraciones conceptuales 2026 de logos minimalistas, sistemas variables, identidad aplicada, identidad dinámica y seis ejercicios de logotipo lineal. También incluye una propuesta conceptual de rebranding para AUTOSISE, separada de la identidad oficial.
+- Exploraciones conceptuales 2026 de logos minimalistas, sistemas variables, identidad aplicada, identidad dinámica y seis ejercicios de logotipo lineal. También documenta la evolución real de AUTOSISE: logo anterior, logo actualizado y sistema de aplicación.
 - Galería de ejemplos: identidad, logo, dirección de arte, papelería, empaque, editorial, infografía, redes, campañas y storyboard para video.
 
 ## Dirección visual 2026

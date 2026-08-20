@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Exploración de identidad dinámica</title>
+  <desc id="desc">Lámina minimalista con cuatro frames para mostrar cómo un símbolo puede transformarse en movimiento sin perder reconocimiento.</desc>
+  <rect width="1200" height="800" fill="#f6f1eb"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#35202c"><text x="64" y="70" font-size="14" font-weight="700" letter-spacing="4">04 / IDENTIDAD DINÁMICA</text><text x="64" y="138" font-size="56" font-weight="700">La marca también se mueve.</text><text x="68" y="184" font-size="16" fill="#756970">Una secuencia breve, con reglas claras y un cierre reconocible.</text></g>
+  <g transform="translate(64 278)" stroke="#35202c" stroke-width="3"><rect width="250" height="250" fill="#ffffff"/><rect x="286" width="250" height="250" fill="#d7efff"/><rect x="572" width="250" height="250" fill="#aeb8a0"/><rect x="858" width="250" height="250" fill="#35202c" stroke="none"/></g>
+  <g fill="none" stroke="#35202c" stroke-width="12" stroke-linecap="round"><path d="M136 446 189 344l53 102M158 446l31-61 31 61"/><path d="M382 450 435 344l53 106M404 450l31-62 31 62"/><path d="M672 446 725 344l53 102M694 446l31-61 31 61"/></g><g fill="none" stroke="#ff765a" stroke-width="12" stroke-linecap="round"><path d="M946 446 999 344l53 102M968 446l31-61 31 61"/></g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2"><text x="82" y="570" fill="#756970">01 / APARECE</text><text x="368" y="570" fill="#756970">02 / CRECE</text><text x="654" y="570" fill="#756970">03 / CAMBIA</text><text x="940" y="570" fill="#756970">04 / CIERRA</text></g>
+  <g font-family="Arial, Helvetica, sans-serif"><text x="64" y="656" fill="#35202c" font-size="25" font-weight="700">Movimiento con intención.</text><text x="64" y="696" fill="#756970" font-size="16">El símbolo puede entrar, expandirse y cambiar de color; la silueta final siempre vuelve a ser reconocible.</text></g>
+  <text x="68" y="748" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#756970" letter-spacing="2">EXPLORACIÓN CONCEPTUAL · MOTION, REDES Y STORYBOARD</text>
+</svg>
