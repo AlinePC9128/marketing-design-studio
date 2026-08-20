@@ -159,7 +159,15 @@ h3 { font-size: 28px; }
 .tag-row span { padding: 5px 7px; border: 1px solid var(--line); color: var(--muted); background: rgba(255, 255, 255, .6); font-size: 9px; }
 .text-button { padding: 0; border: 0; color: var(--violet); background: transparent; font: 11px Arial, sans-serif; cursor: pointer; white-space: nowrap; }
 
-.professional-section { padding-top: 135px; }
+.professional-section { display: flex; flex-direction: column; padding-top: 135px; }
+.professional-section > .rebrand-case { order: 1; }
+.professional-section > .evidence-section-heading { order: 2; }
+.professional-section > .evidence-section-gallery { order: 3; }
+.professional-section > .section-heading { order: 4; }
+.professional-section > .portfolio-focus { order: 5; }
+.professional-section > .identity-lab { order: 6; }
+.professional-section > .professional-intro { order: 7; }
+.professional-section > .production-approach { order: 8; }
 .professional-section .section-heading h2 { max-width: 850px; }
 .portfolio-focus { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 44px; }
 .portfolio-focus article { min-height: 220px; padding: 22px; border-top: 5px solid var(--violet); background: var(--paper); }
@@ -368,8 +376,8 @@ body[data-theme="dark"] .rebrand-card .current-logo-social { background: #f7f7f7
 main { display: flex; flex-direction: column; }
 main > .hero { order: 1; }
 main > #gallery { order: 2; }
-main > #cases { order: 3; }
-main > .professional-section { order: 4; }
+main > .professional-section { order: 3; }
+main > #cases { order: 4; }
 main > #brand { order: 6; }
 main > .brand-principles { order: 7; }
 main > #method { order: 8; }
